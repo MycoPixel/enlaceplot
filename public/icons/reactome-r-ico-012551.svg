@@ -1,0 +1,23 @@
+<svg width="90" height="14" viewBox="0 0 90 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="R-ICO-012551">
+<path id="CENTROMERE" d="M90 5.5572L89.669 1.644C89.669 1.644 53.3591 0 45 0C36.6409 0 0.331 1.6444 0.331 1.6444L0 5.5572C10.2159 10.8886 27.9887 13.6496 45.0001 13.6496C62.0115 13.6496 79.7841 10.8887 90 5.5572Z" fill="url(#paint0_linear_938_25557)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_938_25557" x1="0.4153" y1="6.8248" x2="91.8463" y2="6.8248" gradientUnits="userSpaceOnUse">
+<stop offset="0.0149" stop-color="#29032F"/>
+<stop offset="0.0262" stop-color="#34043C"/>
+<stop offset="0.0757" stop-color="#610A6E"/>
+<stop offset="0.119" stop-color="#820E92"/>
+<stop offset="0.154" stop-color="#9611A9"/>
+<stop offset="0.1763" stop-color="#9D12B1"/>
+<stop offset="0.2902" stop-color="#9611AC"/>
+<stop offset="0.457" stop-color="#82109F"/>
+<stop offset="0.6555" stop-color="#620E8A"/>
+<stop offset="0.7775" stop-color="#4B0C7B"/>
+<stop offset="0.8717" stop-color="#290966"/>
+<stop offset="0.9408" stop-color="#0E0754"/>
+<stop offset="0.9476" stop-color="#0E0754"/>
+<stop offset="1" stop-color="#0E0754"/>
+</linearGradient>
+</defs>
+</svg>

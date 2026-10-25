@@ -1,0 +1,45 @@
+<svg width="35" height="24" viewBox="0 0 35 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="R-ICO-013858">
+<g id="1-acyl-sn-glycero-3-phospho-D-myo-inositol">
+<g id="LEFT_CORNER">
+<mask id="mask0_938_24658" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="10" height="24">
+<rect id="MASK" width="10" height="24" transform="matrix(-1 0 0 1 10 0)" fill="white"/>
+</mask>
+<g mask="url(#mask0_938_24658)">
+<g id="CORNER">
+<mask id="path-2-outside-1_938_24658" maskUnits="userSpaceOnUse" x="0" y="0" width="12" height="24" fill="black">
+<rect fill="white" width="12" height="24"/>
+<path d="M2 12C2 12 6.04738 5.90524 8 2H10V22H8C6.04738 18.0948 2 12 2 12Z"/>
+</mask>
+<path d="M2 12C2 12 6.04738 5.90524 8 2H10V22H8C6.04738 18.0948 2 12 2 12Z" fill="#6E77E5"/>
+<path d="M2 12C2 12 6.04738 5.90524 8 2H10V22H8C6.04738 18.0948 2 12 2 12Z" stroke="#92F2FF" stroke-width="4" stroke-miterlimit="3.99933" stroke-linejoin="round" mask="url(#path-2-outside-1_938_24658)"/>
+</g>
+</g>
+</g>
+<g id="RIGHT CORNER">
+<mask id="mask1_938_24658" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="25" y="0" width="10" height="24">
+<rect id="MASK_2" width="10" height="24" transform="matrix(1 -8.74228e-08 -8.74228e-08 -1 25 24)" fill="white"/>
+</mask>
+<g mask="url(#mask1_938_24658)">
+<g id="CORNER_2">
+<mask id="path-4-outside-2_938_24658" maskUnits="userSpaceOnUse" x="23" y="0" width="12" height="24" fill="black">
+<rect fill="white" x="23" width="12" height="24"/>
+<path d="M33 12C33 12 28.9526 5.90524 27 2H25V22H27C28.9526 18.0948 33 12 33 12Z"/>
+</mask>
+<path d="M33 12C33 12 28.9526 5.90524 27 2H25V22H27C28.9526 18.0948 33 12 33 12Z" fill="#6E77E5"/>
+<path d="M33 12C33 12 28.9526 5.90524 27 2H25V22H27C28.9526 18.0948 33 12 33 12Z" stroke="#92F2FF" stroke-width="4" stroke-miterlimit="3.99933" stroke-linejoin="round" mask="url(#path-4-outside-2_938_24658)"/>
+</g>
+</g>
+</g>
+<g id="centre">
+<mask id="path-5-outside-3_938_24658" maskUnits="userSpaceOnUse" x="8" y="0" width="19" height="24" fill="black">
+<rect fill="white" x="8" width="19" height="24"/>
+<path d="M8 2H27V22H8V2Z"/>
+</mask>
+<path d="M8 2H27V22H8V2Z" fill="#6E77E5"/>
+<path d="M8 2V4H27V2V0H8V2ZM27 22V20H8V22V24H27V22Z" fill="#92F2FF" mask="url(#path-5-outside-3_938_24658)"/>
+<text id="Chemical" fill="white" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="8.16016" y="16.1602">LPI</tspan></text>
+</g>
+</g>
+</g>
+</svg>

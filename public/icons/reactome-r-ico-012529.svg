@@ -1,0 +1,25 @@
+<svg width="17" height="63" viewBox="0 0 17 63" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="R-ICO-012529">
+<g id="R-ICO-012531">
+<path id="CD40L" d="M6.95037 3.43323e-05V24.416H3.00037V36.091H13.9014V24.416H9.95037V3.43323e-05H6.95037Z" fill="url(#paint0_linear_938_22949)"/>
+</g>
+<g id="R-ICO-012530">
+<path id="CD40" d="M9.951 62.5088V39.8348H16.901V24.4158H13.901V36.1148H3V24.4158H0V39.8338H6.951V62.5078L9.951 62.5088Z" fill="url(#paint1_linear_938_22949)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_938_22949" x1="8.45087" y1="3.43323e-05" x2="8.45087" y2="36.091" gradientUnits="userSpaceOnUse">
+<stop stop-color="#272E87"/>
+<stop offset="0.1808" stop-color="#2B328B"/>
+<stop offset="0.3713" stop-color="#363F95"/>
+<stop offset="0.5661" stop-color="#4854A7"/>
+<stop offset="0.764" stop-color="#6171BF"/>
+<stop offset="0.9623" stop-color="#8297DE"/>
+<stop offset="1" stop-color="#899FE5"/>
+</linearGradient>
+<linearGradient id="paint1_linear_938_22949" x1="8.4505" y1="24.9001" x2="8.4505" y2="62.4079" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3A56C9"/>
+<stop offset="1" stop-color="#272E87"/>
+</linearGradient>
+</defs>
+</svg>

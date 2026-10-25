@@ -1,0 +1,21 @@
+<svg width="68" height="20" viewBox="0 0 68 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="R-ICO-012338">
+<path id="Vector" d="M0 9.75049L61 9.75049" stroke="url(#paint0_linear_938_25879)" stroke-width="8" stroke-miterlimit="10"/>
+<g id="CROSS_arrows" clip-path="url(#clip0_938_25879)">
+<g id="Cross">
+<path id="Vector_2" d="M22.0713 17.2505L37.0713 2.25049" stroke="#AA294B" stroke-width="5" stroke-miterlimit="10"/>
+<path id="Vector_3" d="M22.0713 2.25049L37.0713 17.2505" stroke="#AA294B" stroke-width="5" stroke-miterlimit="10"/>
+</g>
+</g>
+<path id="Vector_4" d="M68 0.750492H60V18.7505H68V0.750492Z" fill="#0052AF"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_938_25879" x1="1.29893e-06" y1="10.2505" x2="61" y2="10.2505" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9CDAFF"/>
+<stop offset="0.95" stop-color="#0052AF"/>
+</linearGradient>
+<clipPath id="clip0_938_25879">
+<rect width="19" height="19" fill="white" transform="translate(20.0713 0.250492)"/>
+</clipPath>
+</defs>
+</svg>

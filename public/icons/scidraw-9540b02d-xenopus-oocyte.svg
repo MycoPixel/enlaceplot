@@ -1,0 +1,110 @@
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg941"
+   version="1.1"
+   viewBox="0 0 70.587814 70.104897"
+   height="70.104897mm"
+   width="70.587814mm">
+  <defs
+     id="defs935">
+    <linearGradient
+       gradientTransform="translate(-18.089835,-125.39817)"
+       gradientUnits="userSpaceOnUse"
+       y2="79.041702"
+       x2="102.12969"
+       y1="78.507164"
+       x1="74.268196"
+       id="linearGradient25370-7-7"
+       xlink:href="#linearGradient25368" />
+    <linearGradient
+       osb:paint="gradient"
+       id="linearGradient25368">
+      <stop
+         id="stop25364"
+         offset="0"
+         style="stop-color:#3c2404;stop-opacity:1" />
+      <stop
+         id="stop25366"
+         offset="1"
+         style="stop-color:#d6a200;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       y2="79.041702"
+       x2="102.12969"
+       y1="78.507164"
+       x1="74.268196"
+       gradientTransform="translate(-18.098174,-125.13102)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient25396-7"
+       xlink:href="#linearGradient25753" />
+    <linearGradient
+       id="linearGradient25753"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#ded9d3;stop-opacity:1"
+         offset="0"
+         id="stop25749" />
+      <stop
+         style="stop-color:#d6a200;stop-opacity:0"
+         offset="1"
+         id="stop25751" />
+    </linearGradient>
+    <filter
+       height="1.0164266"
+       y="-0.0082132779"
+       width="1.0094527"
+       x="-0.004726361"
+       id="filter25759"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur25761"
+         stdDeviation="0.096433527" />
+    </filter>
+    <filter
+       height="1.9144"
+       y="-0.45719999"
+       width="1.9144"
+       x="-0.45719999"
+       id="filter25720-3"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur25722-6"
+         stdDeviation="1.4207298" />
+    </filter>
+  </defs>
+  
+  <g
+     transform="translate(-69.706093,-113.44755)"
+     id="layer1">
+    <g
+       transform="translate(56.305917,92.81459)"
+       id="g26481">
+      <circle
+         style="opacity:0.95;fill:url(#linearGradient25370-7-7);fill-opacity:1;stroke:#000000;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path25362-2-6"
+         cx="56.879257"
+         cy="-46.891003"
+         r="24.45516"
+         transform="rotate(88.211823)" />
+      <path
+         transform="rotate(88.211823)"
+         style="opacity:0.87999998;fill:url(#linearGradient25396-7);fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter25759)"
+         d="m 81.326075,-46.623863 c 0,13.506212 -10.692338,23.930296 -24.188022,24.4635 -5.954941,0.235275 -2.162226,-1.148253 0.668246,-4.325522 3.597159,-4.037894 7.442578,-10.752122 7.442578,-18.310738 0,-7.722178 -3.873163,-17.509886 -7.476109,-22.5033 -2.698664,-3.740147 -6.685888,-3.7791 -0.901854,-3.7791 13.506212,0 24.455161,10.948948 24.455161,24.45516 z"
+         id="path25362-7" />
+      <ellipse
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.09148866;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter25720-3)"
+         id="path25362-6-0"
+         cx="36.018559"
+         cy="-145.27687"
+         transform="matrix(-0.30129374,0.82459563,-0.75772544,-0.27221855,-39.89398,-29.89563)"
+         rx="1.6758912"
+         ry="3.7289495" />
+    </g>
+  </g>
+</svg>

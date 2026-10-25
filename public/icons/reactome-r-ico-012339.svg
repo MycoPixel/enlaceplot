@@ -1,0 +1,29 @@
+<svg width="70" height="19" viewBox="0 0 70 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="R-ICO-012339">
+<path id="Vector" d="M2.92346 13.5001C1.93399 13.5001 0.993522 13.5001 0 13.5001C0 10.8334 0 8.16673 0 5.50006C0.993522 5.50006 1.93399 5.50006 2.92346 5.50006C2.92346 8.16673 2.92346 10.8334 2.92346 13.5001ZM10.6957 13.5001C9.0648 13.5001 7.46643 13.5001 5.83283 13.5001C5.83283 10.8334 5.83283 8.16673 5.83283 5.50006C7.46643 5.50006 9.0648 5.50006 10.6957 5.50006C10.6957 8.16673 10.6957 10.8334 10.6957 13.5001ZM21.3819 13.5001C18.7911 13.5001 16.202 13.5001 13.6097 13.5001C13.6097 10.8334 13.6097 8.16673 13.6097 5.50006C16.202 5.50006 18.7911 5.50006 21.3819 5.50006C21.3819 8.16673 21.3819 10.8334 21.3819 13.5001ZM36.9278 13.5001C32.7147 13.5001 28.5081 13.5001 24.2972 13.5001C24.2972 10.8334 24.2972 8.16673 24.2972 5.50006C28.5081 5.50006 32.7147 5.50006 36.9278 5.50006C36.9278 8.16673 36.9278 10.8334 36.9278 13.5001ZM60.258 13.5001C53.4588 13.5001 46.6338 13.5001 39.8442 13.5001C39.8442 10.8334 39.8442 8.16673 39.8442 5.50006C46.6338 5.50006 53.4588 5.50006 60.258 5.50006C60.258 8.16673 60.258 10.8334 60.258 13.5001Z" fill="url(#paint0_linear_938_25877)"/>
+<g id="CROSS_arrows" clip-path="url(#clip0_938_25877)">
+<g id="Cross">
+<path id="Vector_2" d="M22.071 17L37.071 2" stroke="#AA294B" stroke-width="5" stroke-miterlimit="10"/>
+<path id="Vector_3" d="M22.071 2L37.071 17" stroke="#AA294B" stroke-width="5" stroke-miterlimit="10"/>
+</g>
+</g>
+<path id="Vector_4" d="M59.5511 1.80896L69.4511 9.50006L59.5511 17.1912V1.80896Z" fill="#0052AF"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_938_25877" x1="0" y1="10.0001" x2="69.3245" y2="10.0001" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9CDAFF"/>
+<stop offset="0.06" stop-color="#9CDAFF"/>
+<stop offset="0.06" stop-color="#75B8EB"/>
+<stop offset="0.16" stop-color="#75B8EB"/>
+<stop offset="0.16" stop-color="#4E96D7"/>
+<stop offset="0.31" stop-color="#4E96D7"/>
+<stop offset="0.31" stop-color="#2774C3"/>
+<stop offset="0.57" stop-color="#2774C3"/>
+<stop offset="0.57" stop-color="#0052AF"/>
+<stop offset="1" stop-color="#0052AF"/>
+</linearGradient>
+<clipPath id="clip0_938_25877">
+<rect width="19" height="19" fill="white" transform="translate(20.071)"/>
+</clipPath>
+</defs>
+</svg>

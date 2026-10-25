@@ -16,7 +16,7 @@ Serve `dist/` over HTTP (GitHub Pages, Netlify, `npm run preview`). Opening `dis
 
 ## What it does
 
-- 2,886 drawings in ~70 categories, all searchable: 1,635 icons from Bioicons (chemistry, lab apparatus, amino acids, nucleic acids, safety symbols, microbiology, parasites, physiology and more), 669 illustrations from the [NIH BioArt Source](https://bioart.niaid.nih.gov) (viruses, parasites, cells, lab equipment, people, data visualisation), 69 lab glassware and apparatus drawings from [Wikimedia Commons](https://commons.wikimedia.org) (volumetric flasks, Kjeldahl flasks, graduated cylinders, reagent bottles, condensers, GHS pictograms), 126 organism silhouettes from [PhyloPic](https://www.phylopic.org) (plants, fungi, microbes, fish, birds, invertebrates), 386 clinical and public health icons from [Health Icons](https://healthicons.org) (symptoms, devices, diagnostics, medication, protective gear, health facilities), and drawings added to the project itself, such as the NMR spectrometer. Click to add or drag onto the board.
+- 4,120 drawings in ~80 categories, all searchable: 1,635 icons from Bioicons (chemistry, lab apparatus, amino acids, nucleic acids, safety symbols, microbiology, parasites, physiology and more), 669 illustrations from the [NIH BioArt Source](https://bioart.niaid.nih.gov) (viruses, parasites, cells, lab equipment, people, data visualisation), 623 illustrations from [TogoTV / Togo Picture Gallery](https://togotv.dbcls.jp/pics) (DBCLS: model organisms, organs, cells, lab apparatus, plants), 392 drawings from [SciDraw](https://scidraw.io) (animals, cells, arthropods), 219 pathway glyphs from the [Reactome Icon Library](https://reactome.org/icon-lib) (cell elements, cell types, compounds, tissue, proteins, receptors, therapeutics), 69 lab glassware and apparatus drawings from [Wikimedia Commons](https://commons.wikimedia.org) (volumetric flasks, Kjeldahl flasks, graduated cylinders, reagent bottles, condensers, GHS pictograms), 126 organism silhouettes from [PhyloPic](https://www.phylopic.org) (plants, fungi, microbes, fish, birds, invertebrates), 386 clinical and public health icons from [Health Icons](https://healthicons.org) (symptoms, devices, diagnostics, medication, protective gear, health facilities), and drawings added to the project itself, such as the NMR spectrometer. Click to add or drag onto the board.
 - Recolour any icon: the Colours section lists the colours the icon uses, and each one can be swapped. Recoloured icons are credited as "recoloured", as CC BY asks.
 - Replace icon: swap an icon for another drawing from the library and it keeps its position, size, flip, opacity and any colours you set on it. It works on a whole selection at once, and undo puts the old drawing back.
 - Straight, elbow and curved arrows, with a choice of arrowhead at either end (including an inhibition bar, ⊣). Drag the diamond handle to bend them. Select anything and Properties, Repeat makes a row, column or grid of copies in one step.
@@ -28,9 +28,9 @@ Serve `dist/` over HTTP (GitHub Pages, Netlify, `npm run preview`). Opening `dis
 - Charts: Insert, Chart from a table turns a pasted table into a bar chart, line graph or scatter plot. The first row names the categories, each row below is a series, and `8.2 ± 0.6` gives a point an error bar. Select the chart to change its data, colours and axis labels in Properties.
 - My figures: everything you draw is kept in the browser, so File, My figures shows your figures as thumbnails and opens any of them. Files you saved with Save project still open with Open project. Nothing is uploaded anywhere.
 - Version history: while you work, EnlacePlot keeps up to 30 snapshots of the figure (at most one every few minutes, plus one whenever you ask). File, Version history lists them; restoring one first saves the current state as a new version, so a wrong turn is always recoverable.
-- Share by link: File, Copy link to this figure packs the whole figure into the address. Anyone who opens it gets an editable copy, with nothing uploaded to a server; a figure too large for a link asks you to send the project file instead. The app is also installable: the browser caches the app shell and code on the first visit, so it still opens without a connection, while the 2,886-icon library itself is fetched from the network as needed.
+- Share by link: File, Copy link to this figure packs the whole figure into the address. Anyone who opens it gets an editable copy, with nothing uploaded to a server; a figure too large for a link asks you to send the project file instead. The app is also installable: the browser caches the app shell and code on the first visit, so it still opens without a connection, while the 4,120-icon library itself is fetched from the network as needed.
 - Colourblind preview in the top bar shows the board as a deuteranopic or protanopic reader sees it. It is a view only: SVG, PNG and PDF exports always keep the colours the figure really has.
-- Library tools: filter by source (Bioicons, NIH BioArt, Wikimedia Commons, PhyloPic, Health Icons, Your icons) and by license (CC0 and public domain, or needs credit), star favourites, and a Recent tab with what you used last. The badge on a tile says CC0, PD (public domain) or BY (credit needed). The list only draws the rows you are looking at, so all 2,886 icons scroll without the page struggling.
+- Library tools: filter by source (Bioicons, NIH BioArt, Wikimedia Commons, PhyloPic, Health Icons, SciDraw, Reactome, TogoTV, Your icons) and by license (CC0 and public domain, or needs credit), star favourites, and a Recent tab with what you used last. The badge on a tile says CC0, PD (public domain) or BY (credit needed). The list only draws the rows you are looking at, so all 4,120 icons scroll without the page struggling.
 - Copy, cut and paste (Ctrl/Cmd+C, X, V) of whatever is selected, also between tabs. Groups stay groups.
 - Text: sub- and superscripts typed as `H_{2}O` and `Ca^{2+}` (or select text and use the x₂ / x² buttons in Properties), and a choice of sans-serif (Arial), serif (Times) or monospace (Courier).
 - Your own images can carry an author, license and link; they are added to the credit line, and the Credits window warns about images that have none.
@@ -51,7 +51,7 @@ Shortcuts: V select, T text, A arrow, R rectangle, E ellipse, L line, B bracket,
 ## Licenses
 
 The icons keep their own licenses, listed per icon in [ICON_CREDITS.md](ICON_CREDITS.md). Please read it before redistributing the app with the icons included.
-The NIH BioArt illustrations are free for any use, including commercial ([terms](https://bioart.niaid.nih.gov/terms)); most are public domain, the Human Reference Atlas ones are CC BY 4.0. The collection asks that the entry an illustration comes from is named, which is what the credit line does.
+The NIH BioArt illustrations are free for any use, including commercial ([terms](https://bioart.niaid.nih.gov/terms)); most are public domain, the Human Reference Atlas ones are CC BY 4.0. The collection asks that the entry an illustration comes from is named, which is what the credit line does. SciDraw drawings are CC BY 4.0 or CC0 (the author's choice) and are credited to their authors. The Reactome Icon Library is CC BY 4.0 ([license](https://reactome.org/license)). TogoTV illustrations are CC BY 4.0 with the notice "© 2016 DBCLS TogoTV / CC-BY-4.0".
 Structures are drawn with [smiles-drawer](https://github.com/reymond-group/smilesDrawer) (MIT), loaded only when you open the structure dialog. Images you import are yours: they are not part of the icon credits, so check their licenses yourself.
 The code is released under the [GNU General Public License v3](LICENSE) (GPL-3.0-or-later). The icons keep their own licenses, listed per icon in [ICON_CREDITS.md](ICON_CREDITS.md); including them does not change their terms, and redistributing the app with the icons included means respecting both.
 
@@ -110,6 +110,35 @@ python3 scripts/fetch_bioart.py . --only 500 # re-import single entries
 It walks the entry ids (`/bioart/<id>`), reads the collection, creator, licensing and categories off each entry page, and downloads the SVG of every representation. Entry pages are cached in `.cache/`, so a second run needs no requests, and SVGs already in `public/icons/` are not downloaded again.
 
 Colour variants (the same drawing in 12 colours) are skipped, since the app recolours vectors; so are files over `--max-kb`, drawings with embedded bitmaps, and anything without an SVG. Ids are `bioart-<entry>-<name>`, so they never clash with the Bioicons ones. Per icon the script records the collection, the submission date and the entry DOI, which is what the credit line needs.
+
+### SciDraw
+
+```bash
+python3 scripts/fetch_scidraw.py .            # walk the catalogue, download SVGs, rebuild src/icons.scidraw.json
+python3 scripts/fetch_scidraw.py . --dry-run  # report what it would take
+python3 scripts/fetch_scidraw.py . --limit 40 # trial run on the first 40 drawings
+```
+
+[SciDraw](https://scidraw.io) is an open repository of peer-reviewed scientific illustrations contributed by researchers; every drawing is CC BY 4.0 or CC0, chosen by its author. The script reads the public JSON API at `scidraw.io/api/v1` (`/drawings/`, cursor pagination), keeps the vector drawings, and links each credit back to the drawing's own page, which carries the author and a Zenodo DOI. API pages are cached in `.cache/scidraw`, so a second run needs no requests. Ids are `scidraw-<uuid8>-<name>`.
+
+### Reactome Icon Library
+
+```bash
+python3 scripts/fetch_reactome.py .            # crawl the category pages, download SVGs, rebuild src/icons.reactome.json
+python3 scripts/fetch_reactome.py . --dry-run  # report what it would take
+```
+
+The [Reactome Icon Library](https://reactome.org/icon-lib) is the glyph set of the [Reactome](https://reactome.org) pathway diagrams: cell elements, cell types, compounds, human tissue, proteins, receptors and therapeutics, in one consistent style, all CC BY 4.0. The script reads the rendered category pages (`/icon-lib/<category>`), which list every icon as an `<img>` with its name, and records the category page so each credit links back. An icon listed in two categories keeps the more specific one. Pages are cached in `.cache/reactome`. Ids are `reactome-r-ico-<n>`.
+
+### TogoTV / Togo Picture Gallery
+
+```bash
+python3 scripts/fetch_togotv.py .             # read the master list and the archive, download SVGs, rebuild src/icons.togotv.json
+python3 scripts/fetch_togotv.py . --dry-run   # report what it would take
+python3 scripts/fetch_togotv.py . --max-kb 200  # keep bigger drawings too
+```
+
+[TogoTV](https://togotv.dbcls.jp/pics) is the illustration library of DBCLS, the Database Center for Life Science in Japan; the drawings are CC BY 4.0 and the collection asks the notice "© 2016 DBCLS TogoTV / CC-BY-4.0", which the credit line carries. The script combines two views of the archive at `dbarchive.biosciencedbc.jp`: the master CSV (539 curated entries with titles, Japanese taxonomy tags, designer and DOI) and the image directory itself (2,000+ SVGs, where the file name is the title and the collection-level credit applies). Files are streamed with a size cap, so an oversized drawing never downloads in full; the CSV and listing are cached in `.cache/togotv`. Ids are `togotv-<picture id>-<name>`.
 
 ## How it is built
 

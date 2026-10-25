@@ -1,0 +1,75 @@
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="226.77px" height="170.08px" viewBox="0 0 226.77 170.08" enable-background="new 0 0 226.77 170.08" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#666666" stroke-width="0.5" stroke-miterlimit="10" x1="34.402" y1="114.15" x2="34.902" y2="114.15"/>
+			
+				<line fill="none" stroke="#666666" stroke-width="0.5" stroke-miterlimit="10" stroke-dasharray="1.0059,1.0059" x1="35.908" y1="114.15" x2="172.208" y2="114.15"/>
+			
+				<line fill="none" stroke="#666666" stroke-width="0.5" stroke-miterlimit="10" x1="172.71" y1="114.15" x2="173.21" y2="114.15"/>
+		</g>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="34.402" y1="10.522" x2="34.402" y2="148.788"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="33.708" y1="148.876" x2="172.515" y2="148.876"/>
+	<rect x="129.242" y="105.683" fill="none" width="92.214" height="16.936"/>
+	<text transform="matrix(1 0 0 1 129.2422 112.0723)" fill="#666666" font-family="'MyriadPro-Regular'" font-size="9">Resting potential</text>
+	<rect x="129.365" y="89.429" fill="none" width="47.937" height="11.266"/>
+	<text transform="matrix(1 0 0 1 129.3652 95.8193)" fill="#666666" font-family="'MyriadPro-Regular'" font-size="9">Threshold</text>
+	<rect x="20.324" y="110.838" fill="none" width="17.384" height="16.938"/>
+	<text transform="matrix(1 0 0 1 20.3237 117.2285)" fill="#666666" font-family="'MyriadPro-Regular'" font-size="9">-70</text>
+	<rect x="20.324" y="93.901" fill="none" width="17.384" height="16.937"/>
+	<text transform="matrix(1 0 0 1 20.3237 100.292)" fill="#666666" font-family="'MyriadPro-Regular'" font-size="9">-55</text>
+	<rect x="25.912" y="28.563" fill="none" width="17.382" height="16.938"/>
+	<text transform="matrix(1 0 0 1 25.9116 34.9531)" fill="#666666" font-family="'MyriadPro-Regular'" font-size="9">0</text>
+	<g>
+		<g>
+			<line fill="none" stroke="#666666" stroke-width="0.5" stroke-miterlimit="10" x1="35.218" y1="97.2" x2="36.718" y2="97.2"/>
+			
+				<line fill="none" stroke="#666666" stroke-width="0.5" stroke-miterlimit="10" stroke-dasharray="3.018,3.018" x1="39.736" y1="97.2" x2="171.017" y2="97.2"/>
+			<line fill="none" stroke="#666666" stroke-width="0.5" stroke-miterlimit="10" x1="172.526" y1="97.2" x2="174.026" y2="97.2"/>
+		</g>
+	</g>
+	<path fill="none" stroke="#FF8000" stroke-miterlimit="10" d="M178.468,114.15c0,0-10.607-1.194-20.592,6.138
+		c-9.983,7.332-14.976,13.416-25.895,12.096c-10.921-1.32-20.748-116.456-26.051-121.861c-5.304-5.404-12.168,86.834-17.152,86.052
+		s-31.309,15.308-33.561,16.851s-20,0.726-20,0.726"/>
+	<path fill="none" stroke="#FF8000" stroke-miterlimit="10" d="M68.982,105.462"/>
+	<rect x="10.199" y="11.192" fill="none" width="16.938" height="136.997"/>
+	<text transform="matrix(0 -1 1 0 16.5889 128.1777)" font-family="'MyriadPro-Regular'" font-size="9">membrane potential [mV]</text>
+	<g>
+		<ellipse cx="137.248" cy="124.082" rx="5.422" ry="5.411"/>
+		<rect x="129.867" y="120.493" fill="none" width="14.762" height="13.558"/>
+		
+			<text transform="matrix(1 0 0 1 134.9941 126.7344)" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" font-family="'MyriadPro-Regular'" font-size="8.7888">5</text>
+	</g>
+	<g>
+		<ellipse cx="121.875" cy="44.134" rx="5.422" ry="5.412"/>
+		<rect x="114.494" y="40.546" fill="none" width="14.762" height="13.557"/>
+		
+			<text transform="matrix(1 0 0 1 119.6211 46.7861)" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" font-family="'MyriadPro-Regular'" font-size="8.7888">4</text>
+	</g>
+	<g>
+		<ellipse cx="93.29" cy="24.187" rx="5.423" ry="5.411"/>
+		<rect x="85.91" y="20.598" fill="none" width="14.762" height="13.558"/>
+		
+			<text transform="matrix(1 0 0 1 91.0366 26.8379)" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" font-family="'MyriadPro-Regular'" font-size="8.7888">3</text>
+	</g>
+	<g>
+		<ellipse cx="80.489" cy="106.56" rx="5.423" ry="5.412"/>
+		<rect x="73.108" y="102.972" fill="none" width="14.762" height="13.557"/>
+		
+			<text transform="matrix(1 0 0 1 78.2344 109.2109)" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" font-family="'MyriadPro-Regular'" font-size="8.7888">2</text>
+	</g>
+	<g>
+		<ellipse cx="45.819" cy="123.358" rx="5.423" ry="5.412"/>
+		<rect x="38.438" y="119.771" fill="none" width="14.762" height="13.557"/>
+		
+			<text transform="matrix(1 0 0 1 43.5649 126.0098)" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" font-family="'MyriadPro-Regular'" font-size="8.7888">1</text>
+	</g>
+	<rect x="33.708" y="150.598" fill="none" width="138.551" height="11.265"/>
+	<text transform="matrix(1 0 0 1 85.3882 156.9883)" font-family="'MyriadPro-Regular'" font-size="9">time [ms]</text>
+</g>
+</svg>

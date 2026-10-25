@@ -1,0 +1,87 @@
+<svg width="96" height="24" viewBox="0 0 96 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="R-ICO-014412">
+<g id="ASP-3026">
+<g id="LEFT_ELEMENT">
+<mask id="mask0_938_22883" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="8" height="24">
+<rect id="MASK" width="8" height="24" transform="matrix(-1 0 0 1 8 0)" fill="white"/>
+</mask>
+<g mask="url(#mask0_938_22883)">
+<g id="LEFT_CORNER">
+<mask id="path-2-outside-1_938_22883" maskUnits="userSpaceOnUse" x="0" y="-1" width="10" height="26" fill="black">
+<rect fill="white" y="-1" width="10" height="26"/>
+<path d="M2 12C2 12 6.04738 5.90524 8 2V22C6.04738 18.0948 2 12 2 12Z"/>
+</mask>
+<path d="M2 12C2 12 6.04738 5.90524 8 2V22C6.04738 18.0948 2 12 2 12Z" fill="url(#paint0_linear_938_22883)"/>
+<path d="M2 12C2 12 6.04738 5.90524 8 2V22C6.04738 18.0948 2 12 2 12Z" stroke="#946BE6" stroke-width="4" stroke-miterlimit="3.99933" stroke-linejoin="round" mask="url(#path-2-outside-1_938_22883)"/>
+</g>
+</g>
+</g>
+<g id="CENTRE shape">
+<g clip-path="url(#clip0_938_22883)">
+<mask id="path-3-outside-2_938_22883" maskUnits="userSpaceOnUse" x="8" y="0" width="56" height="24" fill="black">
+<rect fill="white" x="8" width="56" height="24"/>
+<path d="M8 2H64V22H8V2Z"/>
+</mask>
+<path d="M8 2H64V22H8V2Z" fill="url(#paint1_linear_938_22883)"/>
+<text id="Chemical" fill="white" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="8.30273" y="16.1602">ASP-3026</tspan></text>
+</g>
+<path d="M8 2V4H64V2V0H8V2ZM64 22V20H8V22V24H64V22Z" fill="#946BE6" mask="url(#path-3-outside-2_938_22883)"/>
+</g>
+<g id="RIGHT_ELEMENT">
+<mask id="mask1_938_22883" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="64" y="0" width="32" height="24">
+<path id="MASK_2" d="M64 24L96 24L96 -8.90181e-07L64 1.90735e-06L64 24Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_938_22883)">
+<g id="Mask group">
+<g id="ELEMENT">
+<g id="BG">
+<mask id="path-7-outside-3_938_22883" maskUnits="userSpaceOnUse" x="62" y="-1.74846e-07" width="34" height="24" fill="black">
+<rect fill="white" x="62" y="-1.74846e-07" width="34" height="24"/>
+<path d="M94 12C94 12 89.9526 18.0948 88 22L64 21.9999L64 2L88 2C89.9526 5.90524 94 12 94 12Z"/>
+</mask>
+<path d="M94 12C94 12 89.9526 18.0948 88 22L64 21.9999L64 2L88 2C89.9526 5.90524 94 12 94 12Z" fill="#946BE6"/>
+<path d="M94 12C94 12 89.9526 18.0948 88 22L64 21.9999L64 2L88 2C89.9526 5.90524 94 12 94 12Z" stroke="#946BE6" stroke-width="4" stroke-miterlimit="3.99933" stroke-linejoin="round" mask="url(#path-7-outside-3_938_22883)"/>
+</g>
+<g id="RX">
+<path id="Vector" d="M73 22V14H76.3071C77.1387 14 77.743 14.0718 78.1199 14.2155C78.4968 14.3592 78.7984 14.6148 79.0249 14.9822C79.2514 15.3496 79.3647 15.7698 79.3647 16.2428C79.3647 16.843 79.193 17.3388 78.8497 17.7298C78.5064 18.1209 77.9933 18.3675 77.3103 18.4693C77.6501 18.6731 77.9305 18.8968 78.1517 19.1405C78.3728 19.3842 78.671 19.8172 79.0461 20.4393L79.9963 22H78.1172L76.9812 20.2592C76.5778 19.6371 76.3017 19.2451 76.1531 19.0832C76.0044 18.9214 75.847 18.8104 75.6807 18.7504C75.5144 18.6904 75.2507 18.6603 74.8898 18.6603H74.5713V22H73ZM74.5713 17.3834H75.7338C76.4875 17.3834 76.9583 17.3506 77.1458 17.2851C77.3333 17.2196 77.4802 17.1068 77.5864 16.9468C77.6925 16.7867 77.7456 16.5866 77.7456 16.3465C77.7456 16.0773 77.6758 15.8599 77.536 15.6944C77.3962 15.5289 77.1989 15.4243 76.9441 15.3806C76.8167 15.3625 76.4345 15.3533 75.7975 15.3533H74.5713V17.3834Z" fill="white"/>
+<path id="Vector_2" d="M79.9961 21.9999L82.0291 19.0149L80.0811 16.2046H81.9018L82.8998 17.798L83.9509 16.2046H85.7027L83.7917 18.9495L85.8778 22H84.0464L82.8998 20.2047L81.7426 21.9999H79.9961Z" fill="white"/>
+</g>
+</g>
+<g id="RIGHT_ELEMENT_2">
+<mask id="mask2_938_22883" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="64" y="0" width="8" height="24">
+<rect id="MASK_3" x="64" width="8" height="24" fill="white"/>
+</mask>
+<g mask="url(#mask2_938_22883)">
+<g id="LEFT_CORNER_2">
+<mask id="path-11-outside-4_938_22883" maskUnits="userSpaceOnUse" x="62" y="-1" width="10" height="26" fill="black">
+<rect fill="white" x="62" y="-1" width="10" height="26"/>
+<path d="M70 12C70 12 65.9526 5.90524 64 2V22C65.9526 18.0948 70 12 70 12Z"/>
+</mask>
+<path d="M70 12C70 12 65.9526 5.90524 64 2V22C65.9526 18.0948 70 12 70 12Z" fill="url(#paint2_linear_938_22883)"/>
+<path d="M70 12C70 12 65.9526 5.90524 64 2V22C65.9526 18.0948 70 12 70 12Z" stroke="#946BE6" stroke-width="4" stroke-miterlimit="3.99933" stroke-linejoin="round" mask="url(#path-11-outside-4_938_22883)"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_938_22883" x1="5" y1="2" x2="5" y2="22" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FDBA5D"/>
+<stop offset="1" stop-color="#400080"/>
+</linearGradient>
+<linearGradient id="paint1_linear_938_22883" x1="36" y1="2" x2="36" y2="22" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FDBA5D"/>
+<stop offset="1" stop-color="#400080"/>
+</linearGradient>
+<linearGradient id="paint2_linear_938_22883" x1="67" y1="2" x2="67" y2="22" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FDBA5D"/>
+<stop offset="1" stop-color="#400080"/>
+</linearGradient>
+<clipPath id="clip0_938_22883">
+<path d="M8 2H64V22H8V2Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>

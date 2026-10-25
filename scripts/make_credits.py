@@ -37,6 +37,17 @@ phylopic = json.load(open(phylopic_path))["icons"] if os.path.exists(phylopic_pa
 n_phylopic_lic = collections.Counter(i["license"] for i in phylopic)
 CC0 = "https://creativecommons.org/publicdomain/zero/1.0/"
 
+scidraw_path = f"{APP}/src/icons.scidraw.json"
+scidraw = json.load(open(scidraw_path))["icons"] if os.path.exists(scidraw_path) else []
+n_scidraw_lic = collections.Counter(i["license"] for i in scidraw)
+
+reactome_path = f"{APP}/src/icons.reactome.json"
+reactome = json.load(open(reactome_path))["icons"] if os.path.exists(reactome_path) else []
+
+togotv_path = f"{APP}/src/icons.togotv.json"
+togotv = json.load(open(togotv_path))["icons"] if os.path.exists(togotv_path) else []
+BY4 = "https://creativecommons.org/licenses/by/4.0/"
+
 
 def esc(s):
     return s.replace("|", "\\|")
@@ -167,5 +178,74 @@ if health:
             f" | `public/icons/{i['id']}.svg` ([page]({page})) |"
         )
 
+if scidraw:
+    out += [
+        "",
+        "## SciDraw",
+        "",
+        f"The other {len(scidraw)} drawings in `public/icons/` come from [SciDraw](https://scidraw.io), an open",
+        "repository of peer-reviewed scientific illustrations contributed by researchers. Every drawing is",
+        f"**CC BY 4.0** ({n_scidraw_lic['by4']} here) or **CC0** ({n_scidraw_lic['cc0']} here), chosen by its author.",
+        "CC BY asks you to credit the author, link the license and say if the drawing was changed; the credit line",
+        "does that, linking each drawing's own page.",
+        "",
+        "Import with `python3 scripts/fetch_scidraw.py .`; the API pages it reads are cached in `.cache/scidraw`.",
+        "",
+        "| Drawing | Category | Author | License | File |",
+        "|---|---|---|---|---|",
+    ]
+    for i in scidraw:
+        name, url = LIC[i["license"]]
+        out.append(
+            f"| {esc(i['label'])} | {i['category']} | {esc(i['author'])} | [{name}]({url})"
+            f" | `public/icons/{i['id']}.svg` ([page](https://scidraw.io/drawings/{i['uuid']})) |"
+        )
+
+if reactome:
+    out += [
+        "",
+        "## Reactome Icon Library",
+        "",
+        f"The other {len(reactome)} icons in `public/icons/` are the glyphs of the [Reactome Icon Library](https://reactome.org/icon-lib),",
+        "the visual vocabulary of the [Reactome](https://reactome.org) pathway diagrams: cell elements, cell types, compounds,",
+        "human tissue, proteins, receptors and therapeutics, all in one consistent style. Reactome content is",
+        f"[CC BY 4.0]({BY4}); credit Reactome, link the license and say if an icon was changed.",
+        "",
+        "Import with `python3 scripts/fetch_reactome.py .`; the category pages it reads are cached in `.cache/reactome`.",
+        "",
+        "| Icon | Category | Author | License | File |",
+        "|---|---|---|---|---|",
+    ]
+    for i in reactome:
+        out.append(
+            f"| {esc(i['label'])} | {i['category']} | {esc(i['author'])} | [CC BY 4.0]({BY4})"
+            f" | `public/icons/{i['id']}.svg` ([list](https://reactome.org/icon-lib/{i['cat']})) |"
+        )
+
+if togotv:
+    out += [
+        "",
+        "## TogoTV / Togo Picture Gallery",
+        "",
+        f"The last {len(togotv)} illustrations in `public/icons/` come from [TogoTV](https://togotv.dbcls.jp/pics), the",
+        "illustration library of DBCLS, the Database Center for Life Science in Japan. The drawings are **CC BY 4.0** and",
+        'the collection asks the notice "© 2016 DBCLS TogoTV / CC-BY-4.0", which the credit line carries. Each drawing',
+        "is also credited to its designer, where the collection lists one, with the DOI of the entries that have one.",
+        "",
+        "Import with `python3 scripts/fetch_togotv.py .`; the master list and directory listing it reads are cached in `.cache/togotv`.",
+        "",
+        "| Illustration | Category | Designer | License | File |",
+        "|---|---|---|---|---|",
+    ]
+    for i in togotv:
+        doi = f" / [doi:{i['doi']}](https://doi.org/{i['doi']})" if i.get("doi") else ""
+        out.append(
+            f"| {esc(i['label'])} | {i['category']} | {esc(i['author'])} | [CC BY 4.0]({BY4}){doi}"
+            f" | `public/icons/{i['id']}.svg` |"
+        )
+
 open(f"{APP}/ICON_CREDITS.md", "w", encoding="utf-8").write("\n".join(out) + "\n")
-print(f"wrote ICON_CREDITS.md with {len(icons)} + {len(bioart)} + {len(commons)} + {len(phylopic)} + {len(health)} icons")
+print(
+    f"wrote ICON_CREDITS.md with {len(icons)} + {len(bioart)} + {len(commons)} + {len(phylopic)} + {len(health)}"
+    f" + {len(scidraw)} + {len(reactome)} + {len(togotv)} icons"
+)

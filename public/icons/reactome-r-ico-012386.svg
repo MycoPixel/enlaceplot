@@ -1,0 +1,16 @@
+<svg width="42" height="43" viewBox="0 0 42 43" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="R-ICO-012386">
+<path id="Vector" d="M20.6353 42.17C32.0319 42.17 41.2706 32.7299 41.2706 21.085C41.2706 9.44007 32.0319 0 20.6353 0C9.23875 0 0 9.44007 0 21.085C0 32.7299 9.23875 42.17 20.6353 42.17Z" fill="url(#paint0_radial_938_24274)"/>
+<path id="Vector_2" d="M32.8543 34.6905C33.3577 36.0498 30.8077 38.1595 27.1587 39.4025C23.5097 40.6456 20.1435 40.5513 19.6401 39.192C19.1366 37.8326 21.6866 35.723 25.3357 34.48C28.9847 33.2369 32.3509 33.3312 32.8543 34.6905Z" fill="url(#paint1_radial_938_24274)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_938_24274" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(14.3193 11.188) scale(20.6359 21.085)">
+<stop stop-color="#C677B5"/>
+<stop offset="1" stop-color="#0E212E"/>
+</radialGradient>
+<radialGradient id="paint1_radial_938_24274" cx="0" cy="0" r="1" gradientTransform="matrix(6.0031 -2.04488 2.13214 5.75736 25.2507 38.3554)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C677B5"/>
+<stop offset="1" stop-color="#0E212E"/>
+</radialGradient>
+</defs>
+</svg>

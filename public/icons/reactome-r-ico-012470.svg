@@ -1,0 +1,22 @@
+<svg width="68" height="68" viewBox="0 0 68 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="R-ICO-012470">
+<g id="Vector">
+<mask id="path-1-inside-1_938_24573" fill="white">
+<path d="M33.6015 67.203C52.1591 67.203 67.203 52.1591 67.203 33.6015C67.203 15.0439 52.1591 0 33.6015 0C15.0439 0 0 15.0439 0 33.6015C0 52.1591 15.0439 67.203 33.6015 67.203Z"/>
+</mask>
+<path d="M33.6015 67.203C52.1591 67.203 67.203 52.1591 67.203 33.6015C67.203 15.0439 52.1591 0 33.6015 0C15.0439 0 0 15.0439 0 33.6015C0 52.1591 15.0439 67.203 33.6015 67.203Z" fill="#72C6CC" stroke="#0F82BC" stroke-width="8" stroke-miterlimit="10" mask="url(#path-1-inside-1_938_24573)"/>
+</g>
+<g id="Vector_2">
+<mask id="path-2-inside-2_938_24573" fill="white">
+<path d="M67.2029 33.6015C67.2029 52.1591 52.159 67.203 33.6014 67.203C15.0438 67.203 0 52.159 0 33.6015C0 15.044 15.0439 12.0008 33.6015 12.0008C52.1591 12.0008 67.2029 15.0439 67.2029 33.6015Z"/>
+</mask>
+<path d="M67.2029 33.6015C67.2029 52.1591 52.159 67.203 33.6014 67.203C15.0438 67.203 0 52.159 0 33.6015C0 15.044 15.0439 12.0008 33.6015 12.0008C52.1591 12.0008 67.2029 15.0439 67.2029 33.6015Z" fill="url(#paint0_radial_938_24573)" stroke="#0F82BC" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" mask="url(#path-2-inside-2_938_24573)"/>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_938_24573" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1.7677 26.8398) scale(67.1719 67.1719)">
+<stop stop-color="#A88D61"/>
+<stop offset="1" stop-color="#EFDAA0"/>
+</radialGradient>
+</defs>
+</svg>

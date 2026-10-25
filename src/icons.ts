@@ -4,6 +4,9 @@ import rawBioart from './icons.bioart.json'
 import rawCommons from './icons.commons.json'
 import rawPhylopic from './icons.phylopic.json'
 import rawHealth from './icons.healthicons.json'
+import rawScidraw from './icons.scidraw.json'
+import rawReactome from './icons.reactome.json'
+import rawTogotv from './icons.togotv.json'
 import rawCustom from './icons.custom.json'
 import type { IconMeta, Item } from './types'
 
@@ -37,6 +40,12 @@ const { icons: rawPhylopicIcons } = rawPhylopic as unknown as { icons: RawPhylop
 type RawHealthIcon = RawIcon & { licenseUrl: string; style: string; healthCategory: string; tags: string[] }
 const { icons: rawHealthIcons } = rawHealth as unknown as { icons: RawHealthIcon[] }
 const { icons: rawCustomIcons } = rawCustom as unknown as { icons: RawIcon[] }
+type RawScidrawIcon = RawIcon & { uuid: string; date: string; doi: string }
+const { icons: rawScidrawIcons } = rawScidraw as unknown as { icons: RawScidrawIcon[] }
+type RawReactomeIcon = RawIcon & { cat: string }
+const { icons: rawReactomeIcons } = rawReactome as unknown as { icons: RawReactomeIcon[] }
+type RawTogotvIcon = RawIcon & { date: string; doi: string }
+const { icons: rawTogotvIcons } = rawTogotv as unknown as { icons: RawTogotvIcon[] }
 
 // icons.json stores only what varies per icon; the rest is derived here.
 const LICENSES = {
@@ -142,12 +151,63 @@ const fromCustom = (r: RawIcon): IconMeta => ({
   custom: true,
 })
 
+// SciDraw credits its contributors: every drawing page carries the author, the license and a DOI.
+const fromScidraw = (r: RawScidrawIcon): IconMeta => ({
+  id: r.id,
+  label: r.label,
+  category: r.category,
+  file: `icons/${r.id}.svg`,
+  inline: r.inline,
+  viewBox: r.viewBox,
+  license: LICENSES[r.license].name,
+  licenseUrl: LICENSES[r.license].url,
+  author: r.author,
+  authorUrl: '',
+  source: `https://scidraw.io/drawings/${r.uuid}`,
+  via: 'SciDraw',
+})
+
+// Reactome's icon library is part of its CC BY 4.0 content; the category page lists each icon.
+const fromReactome = (r: RawReactomeIcon): IconMeta => ({
+  id: r.id,
+  label: r.label,
+  category: r.category,
+  file: `icons/${r.id}.svg`,
+  inline: r.inline,
+  viewBox: r.viewBox,
+  license: LICENSES[r.license].name,
+  licenseUrl: LICENSES[r.license].url,
+  author: r.author,
+  authorUrl: '',
+  source: `https://reactome.org/icon-lib/${r.cat}`,
+  via: 'Reactome',
+})
+
+// DBCLS TogoTV asks for the credit "© 2016 DBCLS TogoTV / CC-BY-4.0"; the group line carries it.
+const fromTogotv = (r: RawTogotvIcon): IconMeta => ({
+  id: r.id,
+  label: r.label,
+  category: r.category,
+  file: `icons/${r.id}.svg`,
+  inline: r.inline,
+  viewBox: r.viewBox,
+  license: LICENSES[r.license].name,
+  licenseUrl: LICENSES[r.license].url,
+  author: r.author,
+  authorUrl: '',
+  source: 'https://togotv.dbcls.jp/pics',
+  via: 'TogoTV',
+})
+
 export const ICONS: IconMeta[] = [
   ...rawIcons.map(fromBioicons),
   ...rawBioartIcons.map(fromBioart),
   ...rawCommonsIcons.map(fromCommons),
   ...rawPhylopicIcons.map(fromPhylopic),
   ...rawHealthIcons.map(fromHealth),
+  ...rawScidrawIcons.map(fromScidraw),
+  ...rawReactomeIcons.map(fromReactome),
+  ...rawTogotvIcons.map(fromTogotv),
   ...rawCustomIcons.map(fromCustom),
 ]
 export const ICON_BY_ID = new Map(ICONS.map((i) => [i.id, i]))
@@ -406,7 +466,7 @@ export function ensureIcons(ids: Iterable<string>): Promise<void> {
 
 export const scopeIds = (inner: string, itemId: string) => inner.split(P).join(`i${itemId}-`)
 
-export type SourceId = 'bioicons' | 'bioart' | 'commons' | 'phylopic' | 'health' | 'custom'
+export type SourceId = 'bioicons' | 'bioart' | 'commons' | 'phylopic' | 'health' | 'scidraw' | 'reactome' | 'togotv' | 'custom'
 /** Where each drawing comes from. The names are proper names, so they are not translated. */
 export const SOURCES: { id: SourceId; label: string }[] = [
   { id: 'bioicons', label: 'Bioicons' },
@@ -414,6 +474,9 @@ export const SOURCES: { id: SourceId; label: string }[] = [
   { id: 'commons', label: 'Wikimedia Commons' },
   { id: 'phylopic', label: 'PhyloPic' },
   { id: 'health', label: 'Health Icons' },
+  { id: 'scidraw', label: 'SciDraw' },
+  { id: 'reactome', label: 'Reactome' },
+  { id: 'togotv', label: 'TogoTV' },
   { id: 'custom', label: 'Your icons' },
 ]
 
@@ -422,6 +485,9 @@ export function sourceOf(m: IconMeta): SourceId {
   if (m.via === 'Wikimedia Commons') return 'commons'
   if (m.via === 'PhyloPic') return 'phylopic'
   if (m.via === 'Health Icons') return 'health'
+  if (m.via === 'SciDraw') return 'scidraw'
+  if (m.via === 'Reactome') return 'reactome'
+  if (m.via === 'TogoTV') return 'togotv'
   if (m.collection) return 'bioart'
   return 'bioicons'
 }

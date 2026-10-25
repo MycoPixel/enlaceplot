@@ -1,5 +1,23 @@
 # Changelog
 
+## 2026-10-25 — Three new icon sources: SciDraw, Reactome, TogoTV
+
+The library grows from 2,886 to 4,120 drawings, with three imports modelled on the existing fetch scripts.
+
+### New icon sources
+
+- **SciDraw** (392 drawings): an open repository of peer-reviewed scientific illustrations; every drawing is CC BY 4.0 or CC0, chosen by its author. New `scripts/fetch_scidraw.py` reads the public JSON API at `scidraw.io/api/v1`, keeps the vector drawings, and links each credit back to the drawing's own page and Zenodo DOI. New `src/icons.scidraw.json`.
+- **Reactome Icon Library** (219 icons): the glyph set of the Reactome pathway diagrams — cell elements, cell types, compounds, human tissue, proteins, receptors, therapeutics — in one consistent style, all CC BY 4.0. New `scripts/fetch_reactome.py` reads the rendered category pages at `reactome.org/icon-lib/<category>`. New `src/icons.reactome.json`.
+- **TogoTV / Togo Picture Gallery** (623 illustrations): the drawing library of DBCLS, Japan, CC BY 4.0 with the notice "© 2016 DBCLS TogoTV / CC-BY-4.0". New `scripts/fetch_togotv.py` combines the archive's master CSV (titles, Japanese taxonomy tags, designer, DOI) with the image directory itself, streaming every download with a size cap so oversized files never land in the bundle. New `src/icons.togotv.json`.
+
+### Integration
+
+- `src/icons.ts` imports the three metadata files, maps them into `IconMeta` and adds SciDraw, Reactome and TogoTV to the library's source filter.
+- `src/credits.ts` writes the credit wording each collection asks for: SciDraw credits its contributor, Reactome credits the library, TogoTV carries the "© 2016 DBCLS TogoTV" notice.
+- `src/es.ts` translates the new credit lines, source names and categories (Animals, Viruses, Diagrams, Organisms, Cell Types, Receptors, Therapeutics, Arrows, Backgrounds).
+- `scripts/make_credits.py` regenerates `ICON_CREDITS.md` with a table for each of the three new collections.
+- New palette categories appear alongside the existing ones; plants (29 TogoTV drawings) were the thinnest category before.
+
 ## 2026-10-21 — Bug fixes, hardening and license
 
 All changes below were made against the original source; `npm run build` (strict TypeScript) and `npm run lint` (oxlint) both pass clean.

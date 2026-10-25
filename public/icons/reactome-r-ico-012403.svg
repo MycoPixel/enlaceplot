@@ -1,0 +1,43 @@
+<svg width="157" height="92" viewBox="0 0 157 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="R-ICO-012403">
+<g id="BG">
+<mask id="path-1-inside-1_938_25158" fill="white">
+<path d="M77.7458 1.34378C109.255 5.14278 135.876 -2.47955e-05 149.381 21.0838C161.215 39.5604 167.387 81.6848 89.6351 89.3282C41.033 94.106 0.178519 92.058 0.0024193 58.2088C-0.173681 24.3596 9.11222 -6.93122 77.7458 1.34378Z"/>
+</mask>
+<path d="M77.7458 1.34378C109.255 5.14278 135.876 -2.47955e-05 149.381 21.0838C161.215 39.5604 167.387 81.6848 89.6351 89.3282C41.033 94.106 0.178519 92.058 0.0024193 58.2088C-0.173681 24.3596 9.11222 -6.93122 77.7458 1.34378Z" fill="#FFB899" stroke="#FF9363" stroke-width="8" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" mask="url(#path-1-inside-1_938_25158)"/>
+</g>
+<path id="Vector" d="M83.692 9.95908C109.066 13.0184 130.504 8.87696 141.379 25.8556C150.909 40.7347 155.879 74.6572 93.2663 80.8124C54.1274 84.6599 54.0997 82.4987 53.9578 55.2401C53.816 27.9814 28.4219 3.29528 83.692 9.95908Z" fill="url(#paint0_radial_938_25158)"/>
+<g id="R-ICO-013121" opacity="0.75">
+<g id="Nucleus">
+<mask id="path-3-inside-2_938_25158" fill="white">
+<path d="M26.1171 64.4867C36.0804 64.4867 44.1572 56.41 44.1572 46.4467C44.1572 36.4835 36.0804 28.4067 26.1171 28.4067C16.1539 28.4067 8.07715 36.4835 8.07715 46.4467C8.07715 56.41 16.1539 64.4867 26.1171 64.4867Z"/>
+</mask>
+<path d="M26.1171 64.4867C36.0804 64.4867 44.1572 56.41 44.1572 46.4467C44.1572 36.4835 36.0804 28.4067 26.1171 28.4067C16.1539 28.4067 8.07715 36.4835 8.07715 46.4467C8.07715 56.41 16.1539 64.4867 26.1171 64.4867Z" fill="url(#paint1_radial_938_25158)" stroke="#5656A5" stroke-width="2.706" mask="url(#path-3-inside-2_938_25158)"/>
+</g>
+<g id="R-ICO-013619">
+<g id="Nucleolus">
+<mask id="path-4-inside-3_938_25158" fill="white">
+<path d="M17.6341 57.4419C19.3776 57.4419 20.7911 56.0285 20.7911 54.2849C20.7911 52.5413 19.3776 51.1279 17.6341 51.1279C15.8905 51.1279 14.4771 52.5413 14.4771 54.2849C14.4771 56.0285 15.8905 57.4419 17.6341 57.4419Z"/>
+</mask>
+<path d="M17.6341 57.4419C19.3776 57.4419 20.7911 56.0285 20.7911 54.2849C20.7911 52.5413 19.3776 51.1279 17.6341 51.1279C15.8905 51.1279 14.4771 52.5413 14.4771 54.2849C14.4771 56.0285 15.8905 57.4419 17.6341 57.4419Z" fill="url(#paint2_radial_938_25158)" stroke="#4B4C96" stroke-width="0.6314" mask="url(#path-4-inside-3_938_25158)"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_938_25158" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(90.5082 46.0499) scale(55.7127 29.6806)">
+<stop offset="0.0062" stop-color="#D2D77C"/>
+<stop offset="1" stop-color="#FF9363"/>
+</radialGradient>
+<radialGradient id="paint1_radial_938_25158" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(21.4264 38.9351) scale(23.7101)">
+<stop stop-color="#AFBAF7"/>
+<stop offset="0.3111" stop-color="#6D96CE"/>
+<stop offset="0.8032" stop-color="#285FCC"/>
+</radialGradient>
+<radialGradient id="paint2_radial_938_25158" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.6363 54.293) rotate(-15.5149) scale(3.9182)">
+<stop stop-color="#B0B7DC"/>
+<stop offset="0.3" stop-color="#B697C6"/>
+<stop offset="0.8032" stop-color="#525281"/>
+</radialGradient>
+</defs>
+</svg>

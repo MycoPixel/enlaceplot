@@ -1,0 +1,17 @@
+<svg width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="R-ICO-012455">
+<path id="BG" d="M25.947 50.894C39.7248 50.894 50.894 39.7248 50.894 25.947C50.894 12.1692 39.7248 1 25.947 1C12.1692 1 1 12.1692 1 25.947C1 39.7248 12.1692 50.894 25.947 50.894Z" fill="#CCA22B" stroke="#AF7E05" stroke-width="2" stroke-miterlimit="10"/>
+<path id="FG" d="M25.9472 45.779C36.9001 45.779 45.7792 36.8999 45.7792 25.947C45.7792 14.9941 36.9001 6.115 25.9472 6.115C14.9943 6.115 6.11523 14.9941 6.11523 25.947C6.11523 36.8999 14.9943 45.779 25.9472 45.779Z" fill="url(#paint0_radial_938_25561)" stroke="#AF7E05" stroke-width="2" stroke-miterlimit="10"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_938_25561" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(21.2802 17.281) scale(19.833)">
+<stop stop-color="#FFF7E0"/>
+<stop offset="0.003" stop-color="#FFF7DF"/>
+<stop offset="0.234" stop-color="#EDDEB2"/>
+<stop offset="0.456" stop-color="#DECA8E"/>
+<stop offset="0.663" stop-color="#D4BC75"/>
+<stop offset="0.851" stop-color="#CEB365"/>
+<stop offset="1" stop-color="#CCB060"/>
+</radialGradient>
+</defs>
+</svg>

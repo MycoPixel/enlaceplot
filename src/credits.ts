@@ -91,6 +91,9 @@ export function creditsText(doc: Doc): string {
   const commons = used.filter((m) => m.via === 'Wikimedia Commons')
   const phylopic = used.filter((m) => m.via === 'PhyloPic')
   const health = used.filter((m) => m.via === 'Health Icons')
+  const scidraw = used.filter((m) => m.via === 'SciDraw')
+  const reactome = used.filter((m) => m.via === 'Reactome')
+  const togotv = used.filter((m) => m.via === 'TogoTV')
   const bioart = used.filter((m) => m.collection && !m.via)
   const bioicons = used.filter((m) => !m.collection && !m.via && !m.custom)
   const custom = used.filter((m) => m.custom)
@@ -114,6 +117,24 @@ export function creditsText(doc: Doc): string {
     lines.push(
       t('Icons from Health Icons (healthicons.org): {list}.', {
         list: health.map((m) => credit(m, recoloured.has(m.id))).join('; '),
+      }),
+    )
+  }
+  if (scidraw.length) {
+    lines.push(
+      t('Drawings from SciDraw (scidraw.io): {list}.', { list: scidraw.map((m) => credit(m, recoloured.has(m.id))).join('; ') }),
+    )
+  }
+  if (reactome.length) {
+    lines.push(
+      t('Icons from the Reactome Icon Library: {list}.', { list: reactome.map((m) => credit(m, recoloured.has(m.id))).join('; ') }),
+    )
+  }
+  if (togotv.length) {
+    // TogoTV asks for this exact notice with its illustrations.
+    lines.push(
+      t('Illustrations from TogoTV, © 2016 DBCLS TogoTV, CC BY 4.0: {list}.', {
+        list: togotv.map((m) => credit(m, recoloured.has(m.id))).join('; '),
       }),
     )
   }

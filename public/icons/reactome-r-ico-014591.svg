@@ -1,0 +1,35 @@
+<svg width="247" height="217" viewBox="0 0 247 217" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="R-ICO-014591">
+<g id="FRAGMENTS">
+<path id="Vector" d="M167.196 49.5443C134.759 17.1079 81.9809 17.1074 49.5445 49.5439L46.6879 34.8595L31.7051 31.7045C73.9777 -10.5682 142.762 -10.5682 185.035 31.7049L181.875 46.6868L167.196 49.5443Z" fill="url(#paint0_linear_938_71784)"/>
+<path id="Vector_2" d="M31.7048 185.035C-10.5683 142.761 -10.5683 73.9775 31.7048 31.7043L46.6877 34.8593L49.5443 49.5438C17.1078 81.9801 17.1078 134.759 49.5443 167.195L34.8603 170.046L31.7048 185.035Z" fill="url(#paint1_linear_938_71784)"/>
+<path id="Vector_3" d="M185.035 185.035C142.762 227.308 73.9782 227.308 31.7051 185.035L34.8606 170.047L49.5445 167.195C81.981 199.632 134.76 199.632 167.196 167.195L170.048 181.874L185.035 185.035Z" fill="url(#paint2_linear_938_71784)"/>
+<path id="Vector_4" d="M246.35 58.5693L237.349 45.9608H197.033C193.506 40.9547 189.51 36.1799 185.035 31.7048L181.875 46.6867L167.195 49.5441C199.632 81.9806 199.632 134.759 167.196 167.195L170.047 181.874L185.035 185.035C215.767 154.302 224.15 109.56 210.197 71.1775H237.349L246.35 58.5693Z" fill="url(#paint3_linear_938_71784)"/>
+</g>
+<g id="TEXT">
+<text id="G0" fill="white" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="12.0001" font-weight="bold" letter-spacing="0em"><tspan x="214.705" y="61.5437">G0</tspan></text>
+<text id="M" fill="white" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="12.0001" font-weight="bold" letter-spacing="0em"><tspan x="101.047" y="17.5906">M</tspan></text>
+<text id="S" fill="white" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="12.0001" font-weight="bold" letter-spacing="0em"><tspan x="102.043" y="206">S</tspan></text>
+<text id="G1" fill="white" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="12.0001" font-weight="bold" letter-spacing="0em"><tspan x="196.11" y="111.825">G1</tspan></text>
+<text id="G2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="12.0001" font-weight="bold" letter-spacing="0em"><tspan x="4.59766" y="111.824">G2</tspan></text>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_938_71784" x1="185.035" y1="24.7722" x2="31.705" y2="24.7722" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BA1149"/>
+<stop offset="1" stop-color="#FFE0EB"/>
+</linearGradient>
+<linearGradient id="paint1_linear_938_71784" x1="24.7722" y1="31.7043" x2="24.7722" y2="185.035" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BA1149"/>
+<stop offset="1" stop-color="#FFE0EB"/>
+</linearGradient>
+<linearGradient id="paint2_linear_938_71784" x1="31.705" y1="191.967" x2="185.035" y2="191.967" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BA1149"/>
+<stop offset="1" stop-color="#FFE0EB"/>
+</linearGradient>
+<linearGradient id="paint3_linear_938_71784" x1="206.773" y1="184.755" x2="206.773" y2="31.4255" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BA1149"/>
+<stop offset="1" stop-color="#FFE0EB"/>
+</linearGradient>
+</defs>
+</svg>

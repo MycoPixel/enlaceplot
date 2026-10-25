@@ -1,0 +1,982 @@
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 427.5 313.8" style="enable-background:new 0 0 427.5 313.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{enable-background:new    ;}
+	.st1{fill:#B4B4B4;}
+	.st2{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st3{fill:#858585;}
+	.st4{clip-path:url(#SVGID_4_);enable-background:new    ;}
+	.st5{fill:#8A8A8A;}
+	.st6{fill:#8F8F8F;}
+	.st7{fill:#949494;}
+	.st8{fill:#999999;}
+	.st9{fill:#9E9E9E;}
+	.st10{fill:#A3A3A3;}
+	.st11{fill:#A8A8A8;}
+	.st12{fill:#ADADAD;}
+	.st13{fill:#B3B3B3;}
+	.st14{fill:#B8B8B8;}
+	.st15{fill:#BDBDBD;}
+	.st16{fill:#C2C2C2;}
+	.st17{fill:#C7C7C7;}
+	.st18{fill:#CCCCCC;}
+	.st19{fill:#D1D1D1;}
+	.st20{fill:#D6D6D6;}
+	.st21{fill:#DBDBDB;}
+	.st22{clip-path:url(#SVGID_6_);enable-background:new    ;}
+	.st23{clip-path:url(#SVGID_8_);enable-background:new    ;}
+	.st24{clip-path:url(#SVGID_10_);enable-background:new    ;}
+	.st25{clip-path:url(#SVGID_12_);enable-background:new    ;}
+	.st26{fill:#575756;}
+	.st27{fill:url(#SVGID_13_);}
+	.st28{fill:#828281;}
+	.st29{fill:url(#SVGID_14_);}
+	.st30{fill:url(#SVGID_15_);}
+	.st31{fill:url(#SVGID_16_);stroke:#575756;stroke-width:0.2807;stroke-miterlimit:10;}
+	.st32{fill:url(#SVGID_17_);}
+	.st33{fill:url(#SVGID_18_);}
+	.st34{fill:url(#SVGID_19_);}
+	.st35{fill:url(#SVGID_20_);}
+	.st36{fill:url(#SVGID_21_);}
+	.st37{fill:url(#SVGID_22_);}
+	.st38{fill:url(#SVGID_23_);}
+	.st39{fill:#DADADA;}
+	.st40{opacity:0.3;fill:url(#SVGID_24_);}
+	.st41{fill:url(#SVGID_25_);stroke:#575756;stroke-width:0.1497;stroke-miterlimit:10;}
+	.st42{fill:url(#SVGID_26_);stroke:#575756;stroke-width:0.1497;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st43{fill:#3C3C3B;}
+	.st44{fill:url(#SVGID_27_);}
+	.st45{fill:url(#SVGID_28_);}
+	.st46{fill:none;stroke:url(#SVGID_29_);stroke-width:2;stroke-miterlimit:10;}
+	.st47{fill:url(#SVGID_30_);stroke:#575756;stroke-width:0.2816;stroke-miterlimit:10;}
+	.st48{fill:url(#SVGID_31_);stroke:#B9948F;stroke-width:0.2816;stroke-miterlimit:10;}
+	.st49{fill:url(#SVGID_32_);stroke:#575756;stroke-width:0.2816;stroke-miterlimit:10;}
+	.st50{fill:url(#SVGID_33_);stroke:#575756;stroke-width:0.2172;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st51{fill:url(#SVGID_34_);stroke:#575756;stroke-width:0.2172;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st52{fill:url(#SVGID_35_);stroke:#575756;stroke-width:0.25;stroke-miterlimit:10;}
+	.st53{fill:url(#SVGID_36_);}
+	.st54{fill:url(#SVGID_37_);}
+	.st55{fill:url(#SVGID_38_);stroke:#575756;stroke-width:0.1629;stroke-miterlimit:10;}
+	.st56{fill:#EDEDED;stroke:#E7E7E7;stroke-width:0.423;stroke-miterlimit:10;}
+	.st57{fill:none;stroke:#E4E4E4;stroke-width:1.7408;stroke-linecap:round;stroke-miterlimit:10;}
+	.st58{fill:#E4E4E4;stroke:#E7E7E7;stroke-width:0.2901;stroke-miterlimit:10;}
+	.st59{fill:#EDEDED;stroke:#E7E7E7;stroke-width:0.423;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st60{fill:#EDEDED;stroke:#E7E7E7;stroke-width:0.2901;stroke-miterlimit:10;}
+	.st61{fill:url(#SVGID_39_);stroke:#575756;stroke-width:0.1629;stroke-miterlimit:10;}
+	.st62{fill:#E7E7E7;stroke:#E7E7E7;stroke-width:0.5803;stroke-miterlimit:10;}
+	.st63{fill:url(#SVGID_40_);stroke:#575756;stroke-width:0.5803;stroke-miterlimit:10;}
+	.st64{fill:url(#SVGID_41_);stroke:#575756;stroke-width:0.1451;stroke-miterlimit:10;}
+	.st65{fill:url(#SVGID_42_);}
+	.st66{fill:#E4E4E4;}
+	.st67{fill:#E7E7E7;}
+	.st68{fill:none;stroke:#E4E4E4;stroke-width:0.8441;stroke-linecap:round;stroke-miterlimit:10;}
+	.st69{fill:#E4E4E4;stroke:#E7E7E7;stroke-width:0.1407;stroke-miterlimit:10;}
+	.st70{fill:#EDEDED;stroke:#E7E7E7;stroke-width:0.2051;stroke-miterlimit:10;}
+	.st71{fill:url(#SVGID_43_);}
+	.st72{fill:#FEF7FB;}
+	.st73{fill:#E5A897;}
+	.st74{fill:#F9CAC7;}
+	.st75{fill:#F29BAD;}
+	.st76{fill:url(#SVGID_44_);}
+	.st77{fill:none;stroke:#000000;stroke-width:0.3971;stroke-miterlimit:10;}
+	.st78{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+	.st79{fill:#211E22;}
+	.st80{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:10;}
+	.st81{fill:#9D9D9C;}
+	.st82{fill:none;stroke:url(#SVGID_45_);stroke-width:1.1263;stroke-miterlimit:10;}
+	.st83{fill:url(#SVGID_46_);}
+	.st84{opacity:0;clip-path:url(#SVGID_48_);fill:#FFFFFF;}
+	.st85{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st86{fill:none;stroke:#FFFFFF;stroke-width:0.994;stroke-miterlimit:10;}
+	.st87{fill:none;stroke:#FFFFFF;stroke-width:0.9286;stroke-miterlimit:10;}
+	.st88{fill:none;stroke:#FFFFFF;stroke-width:1.6385;stroke-miterlimit:10;}
+	.st89{fill:#9EAABD;}
+	.st90{fill:#7A8BB1;}
+	.st91{fill:#96AACA;}
+	.st92{fill:#6F799B;}
+	.st93{fill:#9E999A;}
+	.st94{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st95{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st96{fill:#4D4D4D;}
+	.st97{clip-path:url(#SVGID_50_);enable-background:new    ;}
+	.st98{clip-path:url(#SVGID_52_);enable-background:new    ;}
+	.st99{clip-path:url(#SVGID_54_);enable-background:new    ;}
+	.st100{clip-path:url(#SVGID_56_);enable-background:new    ;}
+	.st101{fill:#1A1A1A;}
+	.st102{fill:#2A2A2A;}
+	.st103{fill:#313131;}
+	.st104{fill:#373737;}
+	.st105{fill:#3B3B3B;}
+	.st106{fill:#3F3F3F;}
+	.st107{fill:#424242;}
+	.st108{clip-path:url(#SVGID_58_);enable-background:new    ;}
+	.st109{fill:#333333;}
+	.st110{clip-path:url(#SVGID_60_);enable-background:new    ;}
+	.st111{clip-path:url(#SVGID_62_);enable-background:new    ;}
+	.st112{clip-path:url(#SVGID_64_);enable-background:new    ;}
+	.st113{clip-path:url(#SVGID_66_);enable-background:new    ;}
+	.st114{clip-path:url(#SVGID_68_);enable-background:new    ;}
+	.st115{fill:#484848;}
+	.st116{clip-path:url(#SVGID_70_);enable-background:new    ;}
+	.st117{fill:#575757;}
+	.st118{fill:#545454;}
+	.st119{fill:#505050;}
+	.st120{fill:#4C4C4C;}
+	.st121{clip-path:url(#SVGID_72_);enable-background:new    ;}
+	.st122{clip-path:url(#SVGID_74_);enable-background:new    ;}
+	.st123{clip-path:url(#SVGID_76_);enable-background:new    ;}
+	.st124{clip-path:url(#SVGID_78_);enable-background:new    ;}
+	.st125{clip-path:url(#SVGID_80_);enable-background:new    ;}
+	.st126{clip-path:url(#SVGID_82_);enable-background:new    ;}
+	.st127{clip-path:url(#SVGID_84_);enable-background:new    ;}
+	.st128{clip-path:url(#SVGID_86_);enable-background:new    ;}
+	.st129{clip-path:url(#SVGID_88_);enable-background:new    ;}
+	.st130{clip-path:url(#SVGID_90_);enable-background:new    ;}
+	.st131{clip-path:url(#SVGID_92_);enable-background:new    ;}
+	.st132{clip-path:url(#SVGID_94_);enable-background:new    ;}
+	.st133{clip-path:url(#SVGID_96_);enable-background:new    ;}
+	.st134{clip-path:url(#SVGID_98_);enable-background:new    ;}
+	.st135{clip-path:url(#SVGID_100_);enable-background:new    ;}
+	.st136{clip-path:url(#SVGID_102_);enable-background:new    ;}
+	.st137{clip-path:url(#SVGID_104_);enable-background:new    ;}
+	.st138{clip-path:url(#SVGID_106_);enable-background:new    ;}
+	.st139{clip-path:url(#SVGID_108_);enable-background:new    ;}
+	.st140{clip-path:url(#SVGID_110_);enable-background:new    ;}
+	.st141{clip-path:url(#SVGID_112_);enable-background:new    ;}
+	.st142{clip-path:url(#SVGID_114_);enable-background:new    ;}
+	.st143{clip-path:url(#SVGID_116_);enable-background:new    ;}
+	.st144{clip-path:url(#SVGID_118_);enable-background:new    ;}
+	.st145{clip-path:url(#SVGID_120_);enable-background:new    ;}
+	.st146{clip-path:url(#SVGID_122_);enable-background:new    ;}
+	.st147{clip-path:url(#SVGID_124_);enable-background:new    ;}
+	.st148{clip-path:url(#SVGID_126_);enable-background:new    ;}
+	.st149{clip-path:url(#SVGID_128_);enable-background:new    ;}
+	.st150{clip-path:url(#SVGID_130_);enable-background:new    ;}
+	.st151{clip-path:url(#SVGID_132_);enable-background:new    ;}
+	.st152{clip-path:url(#SVGID_134_);enable-background:new    ;}
+	.st153{clip-path:url(#SVGID_136_);enable-background:new    ;}
+	.st154{clip-path:url(#SVGID_138_);enable-background:new    ;}
+	.st155{clip-path:url(#SVGID_140_);enable-background:new    ;}
+	.st156{clip-path:url(#SVGID_142_);enable-background:new    ;}
+	.st157{clip-path:url(#SVGID_144_);enable-background:new    ;}
+	.st158{clip-path:url(#SVGID_146_);enable-background:new    ;}
+	.st159{clip-path:url(#SVGID_148_);enable-background:new    ;}
+	.st160{clip-path:url(#SVGID_150_);enable-background:new    ;}
+	.st161{clip-path:url(#SVGID_152_);enable-background:new    ;}
+	.st162{clip-path:url(#SVGID_154_);enable-background:new    ;}
+	.st163{clip-path:url(#SVGID_156_);enable-background:new    ;}
+	.st164{clip-path:url(#SVGID_158_);enable-background:new    ;}
+	.st165{clip-path:url(#SVGID_160_);enable-background:new    ;}
+	.st166{clip-path:url(#SVGID_162_);enable-background:new    ;}
+	.st167{clip-path:url(#SVGID_164_);enable-background:new    ;}
+	.st168{clip-path:url(#SVGID_166_);enable-background:new    ;}
+	.st169{clip-path:url(#SVGID_168_);enable-background:new    ;}
+	.st170{clip-path:url(#SVGID_170_);enable-background:new    ;}
+	.st171{clip-path:url(#SVGID_172_);enable-background:new    ;}
+	.st172{clip-path:url(#SVGID_174_);enable-background:new    ;}
+	.st173{clip-path:url(#SVGID_176_);enable-background:new    ;}
+	.st174{clip-path:url(#SVGID_178_);enable-background:new    ;}
+	.st175{clip-path:url(#SVGID_180_);enable-background:new    ;}
+	.st176{clip-path:url(#SVGID_182_);enable-background:new    ;}
+	.st177{clip-path:url(#SVGID_184_);enable-background:new    ;}
+	.st178{clip-path:url(#SVGID_186_);enable-background:new    ;}
+	.st179{clip-path:url(#SVGID_188_);enable-background:new    ;}
+	.st180{clip-path:url(#SVGID_190_);enable-background:new    ;}
+	.st181{clip-path:url(#SVGID_192_);enable-background:new    ;}
+	.st182{clip-path:url(#SVGID_194_);enable-background:new    ;}
+	.st183{clip-path:url(#SVGID_196_);enable-background:new    ;}
+	.st184{clip-path:url(#SVGID_198_);enable-background:new    ;}
+	.st185{clip-path:url(#SVGID_200_);enable-background:new    ;}
+	.st186{clip-path:url(#SVGID_202_);enable-background:new    ;}
+	.st187{clip-path:url(#SVGID_204_);enable-background:new    ;}
+	.st188{clip-path:url(#SVGID_206_);enable-background:new    ;}
+	.st189{clip-path:url(#SVGID_208_);enable-background:new    ;}
+	.st190{clip-path:url(#SVGID_210_);enable-background:new    ;}
+	.st191{clip-path:url(#SVGID_212_);enable-background:new    ;}
+	.st192{clip-path:url(#SVGID_214_);enable-background:new    ;}
+	.st193{clip-path:url(#SVGID_216_);enable-background:new    ;}
+	.st194{clip-path:url(#SVGID_218_);enable-background:new    ;}
+	.st195{clip-path:url(#SVGID_220_);enable-background:new    ;}
+	.st196{clip-path:url(#SVGID_222_);enable-background:new    ;}
+	.st197{clip-path:url(#SVGID_224_);enable-background:new    ;}
+	.st198{clip-path:url(#SVGID_226_);enable-background:new    ;}
+	.st199{clip-path:url(#SVGID_228_);enable-background:new    ;}
+	.st200{clip-path:url(#SVGID_230_);enable-background:new    ;}
+	.st201{clip-path:url(#SVGID_232_);enable-background:new    ;}
+	.st202{clip-path:url(#SVGID_234_);enable-background:new    ;}
+	.st203{clip-path:url(#SVGID_236_);enable-background:new    ;}
+	.st204{clip-path:url(#SVGID_238_);enable-background:new    ;}
+	.st205{clip-path:url(#SVGID_240_);enable-background:new    ;}
+	.st206{clip-path:url(#SVGID_242_);enable-background:new    ;}
+	.st207{clip-path:url(#SVGID_244_);enable-background:new    ;}
+	.st208{clip-path:url(#SVGID_246_);enable-background:new    ;}
+	.st209{clip-path:url(#SVGID_248_);enable-background:new    ;}
+	.st210{clip-path:url(#SVGID_250_);enable-background:new    ;}
+	.st211{clip-path:url(#SVGID_252_);enable-background:new    ;}
+	.st212{clip-path:url(#SVGID_254_);enable-background:new    ;}
+	.st213{clip-path:url(#SVGID_256_);enable-background:new    ;}
+	.st214{clip-path:url(#SVGID_258_);enable-background:new    ;}
+	.st215{clip-path:url(#SVGID_260_);enable-background:new    ;}
+	.st216{clip-path:url(#SVGID_262_);enable-background:new    ;}
+	.st217{clip-path:url(#SVGID_264_);enable-background:new    ;}
+	.st218{clip-path:url(#SVGID_266_);enable-background:new    ;}
+	.st219{clip-path:url(#SVGID_268_);enable-background:new    ;}
+	.st220{clip-path:url(#SVGID_270_);enable-background:new    ;}
+	.st221{clip-path:url(#SVGID_272_);enable-background:new    ;}
+	.st222{clip-path:url(#SVGID_274_);enable-background:new    ;}
+	.st223{clip-path:url(#SVGID_276_);enable-background:new    ;}
+	.st224{clip-path:url(#SVGID_278_);enable-background:new    ;}
+	.st225{clip-path:url(#SVGID_280_);enable-background:new    ;}
+	.st226{clip-path:url(#SVGID_282_);enable-background:new    ;}
+	.st227{clip-path:url(#SVGID_284_);enable-background:new    ;}
+	.st228{clip-path:url(#SVGID_286_);enable-background:new    ;}
+	.st229{clip-path:url(#SVGID_288_);enable-background:new    ;}
+	.st230{clip-path:url(#SVGID_290_);enable-background:new    ;}
+	.st231{clip-path:url(#SVGID_292_);enable-background:new    ;}
+	.st232{clip-path:url(#SVGID_294_);enable-background:new    ;}
+	.st233{clip-path:url(#SVGID_296_);enable-background:new    ;}
+	.st234{clip-path:url(#SVGID_298_);enable-background:new    ;}
+	.st235{clip-path:url(#SVGID_300_);enable-background:new    ;}
+	.st236{clip-path:url(#SVGID_302_);enable-background:new    ;}
+	.st237{clip-path:url(#SVGID_304_);enable-background:new    ;}
+	.st238{clip-path:url(#SVGID_306_);enable-background:new    ;}
+	.st239{clip-path:url(#SVGID_308_);enable-background:new    ;}
+	.st240{clip-path:url(#SVGID_310_);enable-background:new    ;}
+	.st241{clip-path:url(#SVGID_312_);enable-background:new    ;}
+	.st242{clip-path:url(#SVGID_314_);enable-background:new    ;}
+	.st243{clip-path:url(#SVGID_316_);enable-background:new    ;}
+	.st244{clip-path:url(#SVGID_318_);enable-background:new    ;}
+	.st245{clip-path:url(#SVGID_320_);enable-background:new    ;}
+	.st246{clip-path:url(#SVGID_322_);enable-background:new    ;}
+	.st247{clip-path:url(#SVGID_324_);enable-background:new    ;}
+	.st248{clip-path:url(#SVGID_326_);enable-background:new    ;}
+	.st249{clip-path:url(#SVGID_328_);enable-background:new    ;}
+	.st250{clip-path:url(#SVGID_330_);enable-background:new    ;}
+	.st251{clip-path:url(#SVGID_332_);enable-background:new    ;}
+	.st252{clip-path:url(#SVGID_334_);enable-background:new    ;}
+	.st253{clip-path:url(#SVGID_336_);enable-background:new    ;}
+	.st254{clip-path:url(#SVGID_338_);enable-background:new    ;}
+	.st255{clip-path:url(#SVGID_340_);enable-background:new    ;}
+	.st256{clip-path:url(#SVGID_342_);enable-background:new    ;}
+	.st257{clip-path:url(#SVGID_344_);enable-background:new    ;}
+	.st258{clip-path:url(#SVGID_346_);enable-background:new    ;}
+	.st259{clip-path:url(#SVGID_348_);enable-background:new    ;}
+	.st260{clip-path:url(#SVGID_350_);enable-background:new    ;}
+	.st261{clip-path:url(#SVGID_352_);enable-background:new    ;}
+	.st262{clip-path:url(#SVGID_354_);enable-background:new    ;}
+	.st263{clip-path:url(#SVGID_356_);enable-background:new    ;}
+	.st264{clip-path:url(#SVGID_358_);enable-background:new    ;}
+	.st265{clip-path:url(#SVGID_360_);enable-background:new    ;}
+	.st266{clip-path:url(#SVGID_362_);enable-background:new    ;}
+	.st267{clip-path:url(#SVGID_364_);enable-background:new    ;}
+	.st268{clip-path:url(#SVGID_366_);enable-background:new    ;}
+	.st269{clip-path:url(#SVGID_368_);enable-background:new    ;}
+	.st270{clip-path:url(#SVGID_370_);enable-background:new    ;}
+	.st271{clip-path:url(#SVGID_372_);enable-background:new    ;}
+	.st272{clip-path:url(#SVGID_374_);enable-background:new    ;}
+	.st273{clip-path:url(#SVGID_376_);enable-background:new    ;}
+	.st274{clip-path:url(#SVGID_378_);enable-background:new    ;}
+	.st275{clip-path:url(#SVGID_380_);enable-background:new    ;}
+	.st276{clip-path:url(#SVGID_382_);enable-background:new    ;}
+	.st277{clip-path:url(#SVGID_384_);enable-background:new    ;}
+	.st278{clip-path:url(#SVGID_386_);enable-background:new    ;}
+	.st279{fill:#1B1B1B;}
+	.st280{fill:#343434;}
+	.st281{fill:#434343;}
+	.st282{fill:#2C2C2C;}
+	.st283{clip-path:url(#SVGID_388_);enable-background:new    ;}
+	.st284{clip-path:url(#SVGID_390_);enable-background:new    ;}
+	.st285{clip-path:url(#SVGID_392_);enable-background:new    ;}
+	.st286{clip-path:url(#SVGID_394_);enable-background:new    ;}
+	.st287{clip-path:url(#SVGID_396_);enable-background:new    ;}
+	.st288{clip-path:url(#SVGID_398_);enable-background:new    ;}
+	.st289{clip-path:url(#SVGID_400_);enable-background:new    ;}
+	.st290{clip-path:url(#SVGID_402_);enable-background:new    ;}
+	.st291{clip-path:url(#SVGID_404_);enable-background:new    ;}
+	.st292{clip-path:url(#SVGID_406_);enable-background:new    ;}
+	.st293{fill:#B2B2B2;}
+	.st294{clip-path:url(#SVGID_408_);enable-background:new    ;}
+	.st295{clip-path:url(#SVGID_410_);enable-background:new    ;}
+	.st296{clip-path:url(#SVGID_412_);enable-background:new    ;}
+	.st297{clip-path:url(#SVGID_414_);enable-background:new    ;}
+	.st298{clip-path:url(#SVGID_416_);enable-background:new    ;}
+	.st299{clip-path:url(#SVGID_418_);enable-background:new    ;}
+	.st300{clip-path:url(#SVGID_420_);enable-background:new    ;}
+	.st301{clip-path:url(#SVGID_422_);enable-background:new    ;}
+	.st302{clip-path:url(#SVGID_424_);enable-background:new    ;}
+	.st303{clip-path:url(#SVGID_426_);enable-background:new    ;}
+	.st304{clip-path:url(#SVGID_428_);enable-background:new    ;}
+	.st305{clip-path:url(#SVGID_430_);enable-background:new    ;}
+	.st306{clip-path:url(#SVGID_432_);enable-background:new    ;}
+	.st307{clip-path:url(#SVGID_434_);enable-background:new    ;}
+	.st308{clip-path:url(#SVGID_436_);enable-background:new    ;}
+	.st309{clip-path:url(#SVGID_438_);enable-background:new    ;}
+	.st310{clip-path:url(#SVGID_440_);enable-background:new    ;}
+	.st311{clip-path:url(#SVGID_442_);enable-background:new    ;}
+	.st312{clip-path:url(#SVGID_444_);enable-background:new    ;}
+	.st313{clip-path:url(#SVGID_446_);enable-background:new    ;}
+	.st314{clip-path:url(#SVGID_448_);enable-background:new    ;}
+	.st315{clip-path:url(#SVGID_450_);enable-background:new    ;}
+	.st316{clip-path:url(#SVGID_452_);enable-background:new    ;}
+	.st317{clip-path:url(#SVGID_454_);enable-background:new    ;}
+	.st318{clip-path:url(#SVGID_456_);enable-background:new    ;}
+	.st319{clip-path:url(#SVGID_458_);enable-background:new    ;}
+	.st320{clip-path:url(#SVGID_460_);enable-background:new    ;}
+	.st321{clip-path:url(#SVGID_462_);enable-background:new    ;}
+	.st322{clip-path:url(#SVGID_464_);enable-background:new    ;}
+	.st323{clip-path:url(#SVGID_466_);enable-background:new    ;}
+	.st324{clip-path:url(#SVGID_468_);enable-background:new    ;}
+	.st325{clip-path:url(#SVGID_470_);enable-background:new    ;}
+	.st326{clip-path:url(#SVGID_472_);enable-background:new    ;}
+	.st327{clip-path:url(#SVGID_474_);enable-background:new    ;}
+	.st328{clip-path:url(#SVGID_476_);enable-background:new    ;}
+	.st329{clip-path:url(#SVGID_478_);enable-background:new    ;}
+	.st330{clip-path:url(#SVGID_480_);enable-background:new    ;}
+	.st331{clip-path:url(#SVGID_482_);enable-background:new    ;}
+	.st332{clip-path:url(#SVGID_484_);enable-background:new    ;}
+	.st333{clip-path:url(#SVGID_486_);enable-background:new    ;}
+	.st334{clip-path:url(#SVGID_488_);enable-background:new    ;}
+	.st335{clip-path:url(#SVGID_490_);enable-background:new    ;}
+	.st336{clip-path:url(#SVGID_492_);enable-background:new    ;}
+	.st337{clip-path:url(#SVGID_494_);enable-background:new    ;}
+	.st338{clip-path:url(#SVGID_496_);enable-background:new    ;}
+	.st339{clip-path:url(#SVGID_498_);enable-background:new    ;}
+	.st340{clip-path:url(#SVGID_500_);enable-background:new    ;}
+	.st341{clip-path:url(#SVGID_502_);enable-background:new    ;}
+	.st342{clip-path:url(#SVGID_504_);enable-background:new    ;}
+	.st343{clip-path:url(#SVGID_506_);enable-background:new    ;}
+	.st344{clip-path:url(#SVGID_508_);enable-background:new    ;}
+	.st345{clip-path:url(#SVGID_510_);enable-background:new    ;}
+	.st346{clip-path:url(#SVGID_512_);enable-background:new    ;}
+	.st347{clip-path:url(#SVGID_514_);enable-background:new    ;}
+	.st348{clip-path:url(#SVGID_516_);enable-background:new    ;}
+	.st349{clip-path:url(#SVGID_518_);enable-background:new    ;}
+	.st350{clip-path:url(#SVGID_520_);enable-background:new    ;}
+	.st351{clip-path:url(#SVGID_522_);enable-background:new    ;}
+	.st352{clip-path:url(#SVGID_524_);enable-background:new    ;}
+	.st353{clip-path:url(#SVGID_526_);enable-background:new    ;}
+	.st354{clip-path:url(#SVGID_528_);enable-background:new    ;}
+	.st355{clip-path:url(#SVGID_530_);enable-background:new    ;}
+	.st356{clip-path:url(#SVGID_532_);enable-background:new    ;}
+	.st357{clip-path:url(#SVGID_534_);enable-background:new    ;}
+	.st358{clip-path:url(#SVGID_536_);enable-background:new    ;}
+	.st359{clip-path:url(#SVGID_538_);enable-background:new    ;}
+	.st360{clip-path:url(#SVGID_540_);enable-background:new    ;}
+	.st361{clip-path:url(#SVGID_542_);enable-background:new    ;}
+	.st362{clip-path:url(#SVGID_544_);enable-background:new    ;}
+	.st363{clip-path:url(#SVGID_546_);enable-background:new    ;}
+	.st364{clip-path:url(#SVGID_548_);enable-background:new    ;}
+	.st365{clip-path:url(#SVGID_550_);enable-background:new    ;}
+	.st366{clip-path:url(#SVGID_552_);enable-background:new    ;}
+	.st367{clip-path:url(#SVGID_554_);enable-background:new    ;}
+	.st368{clip-path:url(#SVGID_556_);enable-background:new    ;}
+	.st369{clip-path:url(#SVGID_558_);enable-background:new    ;}
+	.st370{clip-path:url(#SVGID_560_);enable-background:new    ;}
+	.st371{clip-path:url(#SVGID_562_);enable-background:new    ;}
+	.st372{clip-path:url(#SVGID_564_);enable-background:new    ;}
+	.st373{clip-path:url(#SVGID_566_);enable-background:new    ;}
+	.st374{clip-path:url(#SVGID_568_);enable-background:new    ;}
+	.st375{clip-path:url(#SVGID_570_);enable-background:new    ;}
+	.st376{clip-path:url(#SVGID_572_);enable-background:new    ;}
+	.st377{clip-path:url(#SVGID_574_);enable-background:new    ;}
+	.st378{clip-path:url(#SVGID_576_);enable-background:new    ;}
+	.st379{clip-path:url(#SVGID_578_);enable-background:new    ;}
+	.st380{clip-path:url(#SVGID_580_);enable-background:new    ;}
+	.st381{clip-path:url(#SVGID_582_);enable-background:new    ;}
+	.st382{clip-path:url(#SVGID_584_);enable-background:new    ;}
+	.st383{clip-path:url(#SVGID_586_);enable-background:new    ;}
+	.st384{clip-path:url(#SVGID_588_);enable-background:new    ;}
+	.st385{clip-path:url(#SVGID_590_);enable-background:new    ;}
+	.st386{clip-path:url(#SVGID_592_);enable-background:new    ;}
+	.st387{clip-path:url(#SVGID_594_);enable-background:new    ;}
+	.st388{clip-path:url(#SVGID_596_);enable-background:new    ;}
+	.st389{clip-path:url(#SVGID_598_);enable-background:new    ;}
+	.st390{clip-path:url(#SVGID_600_);enable-background:new    ;}
+	.st391{clip-path:url(#SVGID_602_);enable-background:new    ;}
+	.st392{clip-path:url(#SVGID_604_);enable-background:new    ;}
+	.st393{clip-path:url(#SVGID_606_);enable-background:new    ;}
+	.st394{clip-path:url(#SVGID_608_);enable-background:new    ;}
+	.st395{clip-path:url(#SVGID_610_);enable-background:new    ;}
+	.st396{clip-path:url(#SVGID_612_);enable-background:new    ;}
+	.st397{clip-path:url(#SVGID_614_);enable-background:new    ;}
+	.st398{clip-path:url(#SVGID_616_);enable-background:new    ;}
+	.st399{clip-path:url(#SVGID_618_);enable-background:new    ;}
+	.st400{clip-path:url(#SVGID_620_);enable-background:new    ;}
+	.st401{clip-path:url(#SVGID_622_);enable-background:new    ;}
+	.st402{clip-path:url(#SVGID_624_);enable-background:new    ;}
+	.st403{clip-path:url(#SVGID_626_);enable-background:new    ;}
+	.st404{clip-path:url(#SVGID_628_);enable-background:new    ;}
+	.st405{clip-path:url(#SVGID_630_);enable-background:new    ;}
+	.st406{clip-path:url(#SVGID_632_);enable-background:new    ;}
+	.st407{clip-path:url(#SVGID_634_);enable-background:new    ;}
+	.st408{clip-path:url(#SVGID_636_);enable-background:new    ;}
+	.st409{clip-path:url(#SVGID_638_);enable-background:new    ;}
+	.st410{clip-path:url(#SVGID_640_);enable-background:new    ;}
+	.st411{clip-path:url(#SVGID_642_);enable-background:new    ;}
+	.st412{clip-path:url(#SVGID_644_);enable-background:new    ;}
+	.st413{clip-path:url(#SVGID_646_);enable-background:new    ;}
+	.st414{clip-path:url(#SVGID_648_);enable-background:new    ;}
+	.st415{clip-path:url(#SVGID_650_);enable-background:new    ;}
+	.st416{clip-path:url(#SVGID_652_);enable-background:new    ;}
+	.st417{clip-path:url(#SVGID_654_);enable-background:new    ;}
+	.st418{clip-path:url(#SVGID_656_);enable-background:new    ;}
+	.st419{clip-path:url(#SVGID_658_);enable-background:new    ;}
+	.st420{clip-path:url(#SVGID_660_);enable-background:new    ;}
+	.st421{clip-path:url(#SVGID_662_);enable-background:new    ;}
+	.st422{clip-path:url(#SVGID_664_);enable-background:new    ;}
+	.st423{clip-path:url(#SVGID_666_);enable-background:new    ;}
+	.st424{clip-path:url(#SVGID_668_);enable-background:new    ;}
+	.st425{clip-path:url(#SVGID_670_);enable-background:new    ;}
+	.st426{clip-path:url(#SVGID_672_);enable-background:new    ;}
+	.st427{clip-path:url(#SVGID_674_);enable-background:new    ;}
+	.st428{clip-path:url(#SVGID_676_);enable-background:new    ;}
+	.st429{clip-path:url(#SVGID_678_);enable-background:new    ;}
+	.st430{clip-path:url(#SVGID_680_);enable-background:new    ;}
+	.st431{clip-path:url(#SVGID_682_);enable-background:new    ;}
+	.st432{clip-path:url(#SVGID_684_);enable-background:new    ;}
+	.st433{clip-path:url(#SVGID_686_);enable-background:new    ;}
+	.st434{clip-path:url(#SVGID_688_);enable-background:new    ;}
+	.st435{clip-path:url(#SVGID_690_);enable-background:new    ;}
+	.st436{clip-path:url(#SVGID_692_);enable-background:new    ;}
+	.st437{clip-path:url(#SVGID_694_);enable-background:new    ;}
+	.st438{clip-path:url(#SVGID_696_);enable-background:new    ;}
+	.st439{clip-path:url(#SVGID_698_);enable-background:new    ;}
+	.st440{clip-path:url(#SVGID_700_);enable-background:new    ;}
+	.st441{clip-path:url(#SVGID_702_);enable-background:new    ;}
+	.st442{clip-path:url(#SVGID_704_);enable-background:new    ;}
+	.st443{clip-path:url(#SVGID_706_);enable-background:new    ;}
+	.st444{clip-path:url(#SVGID_708_);enable-background:new    ;}
+	.st445{clip-path:url(#SVGID_710_);enable-background:new    ;}
+	.st446{clip-path:url(#SVGID_712_);enable-background:new    ;}
+	.st447{clip-path:url(#SVGID_714_);enable-background:new    ;}
+	.st448{clip-path:url(#SVGID_716_);enable-background:new    ;}
+	.st449{clip-path:url(#SVGID_718_);enable-background:new    ;}
+	.st450{clip-path:url(#SVGID_720_);enable-background:new    ;}
+	.st451{clip-path:url(#SVGID_722_);enable-background:new    ;}
+	.st452{clip-path:url(#SVGID_724_);enable-background:new    ;}
+	.st453{clip-path:url(#SVGID_726_);enable-background:new    ;}
+	.st454{clip-path:url(#SVGID_728_);enable-background:new    ;}
+	.st455{clip-path:url(#SVGID_730_);enable-background:new    ;}
+	.st456{clip-path:url(#SVGID_732_);enable-background:new    ;}
+	.st457{clip-path:url(#SVGID_734_);enable-background:new    ;}
+	.st458{clip-path:url(#SVGID_736_);enable-background:new    ;}
+	.st459{clip-path:url(#SVGID_738_);enable-background:new    ;}
+	.st460{clip-path:url(#SVGID_740_);enable-background:new    ;}
+	.st461{clip-path:url(#SVGID_742_);enable-background:new    ;}
+	.st462{clip-path:url(#SVGID_744_);enable-background:new    ;}
+	.st463{clip-path:url(#SVGID_746_);enable-background:new    ;}
+	.st464{clip-path:url(#SVGID_748_);enable-background:new    ;}
+	.st465{clip-path:url(#SVGID_750_);enable-background:new    ;}
+	.st466{clip-path:url(#SVGID_752_);enable-background:new    ;}
+	.st467{clip-path:url(#SVGID_754_);enable-background:new    ;}
+	.st468{clip-path:url(#SVGID_756_);enable-background:new    ;}
+	.st469{clip-path:url(#SVGID_758_);enable-background:new    ;}
+	.st470{clip-path:url(#SVGID_760_);enable-background:new    ;}
+	.st471{clip-path:url(#SVGID_762_);enable-background:new    ;}
+	.st472{clip-path:url(#SVGID_764_);enable-background:new    ;}
+	.st473{clip-path:url(#SVGID_766_);enable-background:new    ;}
+	.st474{clip-path:url(#SVGID_768_);enable-background:new    ;}
+	.st475{clip-path:url(#SVGID_770_);enable-background:new    ;}
+	.st476{clip-path:url(#SVGID_772_);enable-background:new    ;}
+	.st477{clip-path:url(#SVGID_774_);enable-background:new    ;}
+	.st478{clip-path:url(#SVGID_776_);enable-background:new    ;}
+	.st479{clip-path:url(#SVGID_778_);enable-background:new    ;}
+	.st480{clip-path:url(#SVGID_780_);enable-background:new    ;}
+	.st481{clip-path:url(#SVGID_782_);enable-background:new    ;}
+	.st482{clip-path:url(#SVGID_784_);enable-background:new    ;}
+	.st483{clip-path:url(#SVGID_786_);enable-background:new    ;}
+	.st484{clip-path:url(#SVGID_788_);enable-background:new    ;}
+	.st485{clip-path:url(#SVGID_790_);enable-background:new    ;}
+	.st486{clip-path:url(#SVGID_792_);enable-background:new    ;}
+	.st487{clip-path:url(#SVGID_794_);enable-background:new    ;}
+	.st488{clip-path:url(#SVGID_796_);enable-background:new    ;}
+	.st489{clip-path:url(#SVGID_798_);enable-background:new    ;}
+	.st490{clip-path:url(#SVGID_800_);enable-background:new    ;}
+	.st491{clip-path:url(#SVGID_802_);enable-background:new    ;}
+	.st492{clip-path:url(#SVGID_804_);enable-background:new    ;}
+	.st493{clip-path:url(#SVGID_806_);enable-background:new    ;}
+	.st494{clip-path:url(#SVGID_808_);enable-background:new    ;}
+	.st495{clip-path:url(#SVGID_810_);enable-background:new    ;}
+	.st496{clip-path:url(#SVGID_812_);enable-background:new    ;}
+	.st497{clip-path:url(#SVGID_814_);enable-background:new    ;}
+	.st498{clip-path:url(#SVGID_816_);enable-background:new    ;}
+	.st499{clip-path:url(#SVGID_818_);enable-background:new    ;}
+	.st500{clip-path:url(#SVGID_820_);enable-background:new    ;}
+	.st501{clip-path:url(#SVGID_822_);enable-background:new    ;}
+	.st502{clip-path:url(#SVGID_824_);enable-background:new    ;}
+	.st503{clip-path:url(#SVGID_826_);enable-background:new    ;}
+	.st504{clip-path:url(#SVGID_828_);enable-background:new    ;}
+	.st505{clip-path:url(#SVGID_830_);enable-background:new    ;}
+	.st506{clip-path:url(#SVGID_832_);enable-background:new    ;}
+	.st507{clip-path:url(#SVGID_834_);enable-background:new    ;}
+	.st508{clip-path:url(#SVGID_836_);enable-background:new    ;}
+	.st509{clip-path:url(#SVGID_838_);enable-background:new    ;}
+	.st510{clip-path:url(#SVGID_840_);enable-background:new    ;}
+	.st511{clip-path:url(#SVGID_842_);enable-background:new    ;}
+	.st512{clip-path:url(#SVGID_844_);enable-background:new    ;}
+	.st513{clip-path:url(#SVGID_846_);enable-background:new    ;}
+	.st514{clip-path:url(#SVGID_848_);enable-background:new    ;}
+	.st515{clip-path:url(#SVGID_850_);enable-background:new    ;}
+	.st516{clip-path:url(#SVGID_852_);enable-background:new    ;}
+	.st517{clip-path:url(#SVGID_854_);enable-background:new    ;}
+	.st518{clip-path:url(#SVGID_856_);enable-background:new    ;}
+	.st519{clip-path:url(#SVGID_858_);enable-background:new    ;}
+	.st520{clip-path:url(#SVGID_860_);enable-background:new    ;}
+	.st521{clip-path:url(#SVGID_862_);enable-background:new    ;}
+	.st522{clip-path:url(#SVGID_864_);enable-background:new    ;}
+	.st523{clip-path:url(#SVGID_866_);enable-background:new    ;}
+	.st524{clip-path:url(#SVGID_868_);enable-background:new    ;}
+	.st525{clip-path:url(#SVGID_870_);enable-background:new    ;}
+	.st526{clip-path:url(#SVGID_872_);enable-background:new    ;}
+	.st527{clip-path:url(#SVGID_874_);enable-background:new    ;}
+	.st528{clip-path:url(#SVGID_876_);enable-background:new    ;}
+	.st529{clip-path:url(#SVGID_878_);enable-background:new    ;}
+	.st530{clip-path:url(#SVGID_880_);enable-background:new    ;}
+	.st531{clip-path:url(#SVGID_882_);enable-background:new    ;}
+	.st532{clip-path:url(#SVGID_884_);enable-background:new    ;}
+	.st533{clip-path:url(#SVGID_886_);enable-background:new    ;}
+	.st534{clip-path:url(#SVGID_888_);enable-background:new    ;}
+	.st535{clip-path:url(#SVGID_890_);enable-background:new    ;}
+	.st536{clip-path:url(#SVGID_892_);enable-background:new    ;}
+	.st537{clip-path:url(#SVGID_894_);enable-background:new    ;}
+	.st538{clip-path:url(#SVGID_896_);enable-background:new    ;}
+	.st539{clip-path:url(#SVGID_898_);enable-background:new    ;}
+	.st540{clip-path:url(#SVGID_900_);enable-background:new    ;}
+	.st541{clip-path:url(#SVGID_902_);enable-background:new    ;}
+	.st542{clip-path:url(#SVGID_904_);enable-background:new    ;}
+	.st543{clip-path:url(#SVGID_906_);enable-background:new    ;}
+	.st544{clip-path:url(#SVGID_908_);enable-background:new    ;}
+	.st545{clip-path:url(#SVGID_910_);enable-background:new    ;}
+	.st546{clip-path:url(#SVGID_912_);enable-background:new    ;}
+	.st547{clip-path:url(#SVGID_914_);enable-background:new    ;}
+	.st548{clip-path:url(#SVGID_916_);enable-background:new    ;}
+	.st549{clip-path:url(#SVGID_918_);enable-background:new    ;}
+	.st550{clip-path:url(#SVGID_920_);enable-background:new    ;}
+	.st551{clip-path:url(#SVGID_922_);enable-background:new    ;}
+	.st552{clip-path:url(#SVGID_924_);enable-background:new    ;}
+	.st553{clip-path:url(#SVGID_926_);enable-background:new    ;}
+	.st554{clip-path:url(#SVGID_928_);enable-background:new    ;}
+	.st555{clip-path:url(#SVGID_930_);enable-background:new    ;}
+	.st556{clip-path:url(#SVGID_932_);enable-background:new    ;}
+	.st557{clip-path:url(#SVGID_934_);enable-background:new    ;}
+	.st558{clip-path:url(#SVGID_936_);enable-background:new    ;}
+	.st559{clip-path:url(#SVGID_938_);enable-background:new    ;}
+	.st560{clip-path:url(#SVGID_940_);enable-background:new    ;}
+	.st561{clip-path:url(#SVGID_942_);enable-background:new    ;}
+	.st562{clip-path:url(#SVGID_944_);enable-background:new    ;}
+	.st563{clip-path:url(#SVGID_946_);enable-background:new    ;}
+	.st564{clip-path:url(#SVGID_948_);enable-background:new    ;}
+	.st565{clip-path:url(#SVGID_950_);enable-background:new    ;}
+	.st566{clip-path:url(#SVGID_952_);enable-background:new    ;}
+	.st567{clip-path:url(#SVGID_954_);enable-background:new    ;}
+	.st568{clip-path:url(#SVGID_956_);enable-background:new    ;}
+	.st569{clip-path:url(#SVGID_958_);enable-background:new    ;}
+	.st570{clip-path:url(#SVGID_960_);enable-background:new    ;}
+	.st571{clip-path:url(#SVGID_962_);enable-background:new    ;}
+	.st572{clip-path:url(#SVGID_964_);enable-background:new    ;}
+	.st573{clip-path:url(#SVGID_966_);enable-background:new    ;}
+	.st574{clip-path:url(#SVGID_968_);enable-background:new    ;}
+	.st575{clip-path:url(#SVGID_970_);enable-background:new    ;}
+	.st576{clip-path:url(#SVGID_972_);enable-background:new    ;}
+	.st577{clip-path:url(#SVGID_974_);enable-background:new    ;}
+	.st578{clip-path:url(#SVGID_976_);enable-background:new    ;}
+	.st579{clip-path:url(#SVGID_978_);enable-background:new    ;}
+	.st580{clip-path:url(#SVGID_980_);enable-background:new    ;}
+	.st581{clip-path:url(#SVGID_982_);enable-background:new    ;}
+	.st582{clip-path:url(#SVGID_984_);enable-background:new    ;}
+	.st583{clip-path:url(#SVGID_986_);enable-background:new    ;}
+	.st584{clip-path:url(#SVGID_988_);enable-background:new    ;}
+	.st585{clip-path:url(#SVGID_990_);enable-background:new    ;}
+	.st586{clip-path:url(#SVGID_992_);enable-background:new    ;}
+	.st587{clip-path:url(#SVGID_994_);enable-background:new    ;}
+	.st588{fill:url(#SVGID_995_);}
+	.st589{clip-path:url(#SVGID_997_);enable-background:new    ;}
+	.st590{clip-path:url(#SVGID_999_);enable-background:new    ;}
+	.st591{clip-path:url(#SVGID_1001_);enable-background:new    ;}
+	.st592{clip-path:url(#SVGID_1003_);enable-background:new    ;}
+	.st593{clip-path:url(#SVGID_1005_);enable-background:new    ;}
+	.st594{clip-path:url(#SVGID_1007_);enable-background:new    ;}
+	.st595{fill:#ACACAC;}
+	.st596{fill:#8E8E8E;}
+	.st597{fill:#AEAEAE;}
+	.st598{fill:#757575;}
+	.st599{fill:#979797;}
+	.st600{clip-path:url(#SVGID_1009_);enable-background:new    ;}
+	.st601{clip-path:url(#SVGID_1011_);enable-background:new    ;}
+	.st602{clip-path:url(#SVGID_1013_);enable-background:new    ;}
+	.st603{clip-path:url(#SVGID_1015_);enable-background:new    ;}
+	.st604{clip-path:url(#SVGID_1017_);enable-background:new    ;}
+	.st605{clip-path:url(#SVGID_1019_);enable-background:new    ;}
+	.st606{clip-path:url(#SVGID_1021_);enable-background:new    ;}
+	.st607{clip-path:url(#SVGID_1023_);enable-background:new    ;}
+	.st608{clip-path:url(#SVGID_1025_);enable-background:new    ;}
+	.st609{clip-path:url(#SVGID_1027_);enable-background:new    ;}
+	.st610{clip-path:url(#SVGID_1029_);enable-background:new    ;}
+	.st611{clip-path:url(#SVGID_1031_);enable-background:new    ;}
+	.st612{clip-path:url(#SVGID_1033_);enable-background:new    ;}
+	.st613{clip-path:url(#SVGID_1035_);enable-background:new    ;}
+	.st614{clip-path:url(#SVGID_1037_);enable-background:new    ;}
+	.st615{clip-path:url(#SVGID_1039_);enable-background:new    ;}
+	.st616{clip-path:url(#SVGID_1041_);enable-background:new    ;}
+	.st617{clip-path:url(#SVGID_1043_);enable-background:new    ;}
+	.st618{clip-path:url(#SVGID_1045_);enable-background:new    ;}
+	.st619{clip-path:url(#SVGID_1047_);enable-background:new    ;}
+	.st620{clip-path:url(#SVGID_1049_);enable-background:new    ;}
+	.st621{clip-path:url(#SVGID_1051_);enable-background:new    ;}
+	.st622{clip-path:url(#SVGID_1053_);enable-background:new    ;}
+	.st623{clip-path:url(#SVGID_1055_);enable-background:new    ;}
+	.st624{clip-path:url(#SVGID_1057_);enable-background:new    ;}
+	.st625{clip-path:url(#SVGID_1059_);enable-background:new    ;}
+	.st626{clip-path:url(#SVGID_1061_);enable-background:new    ;}
+	.st627{clip-path:url(#SVGID_1063_);enable-background:new    ;}
+	.st628{clip-path:url(#SVGID_1065_);enable-background:new    ;}
+	.st629{clip-path:url(#SVGID_1067_);enable-background:new    ;}
+	.st630{clip-path:url(#SVGID_1069_);enable-background:new    ;}
+	.st631{clip-path:url(#SVGID_1071_);enable-background:new    ;}
+	.st632{clip-path:url(#SVGID_1073_);enable-background:new    ;}
+	.st633{clip-path:url(#SVGID_1075_);enable-background:new    ;}
+	.st634{clip-path:url(#SVGID_1077_);enable-background:new    ;}
+	.st635{clip-path:url(#SVGID_1079_);enable-background:new    ;}
+	.st636{clip-path:url(#SVGID_1081_);enable-background:new    ;}
+	.st637{clip-path:url(#SVGID_1083_);enable-background:new    ;}
+	.st638{clip-path:url(#SVGID_1085_);enable-background:new    ;}
+	.st639{clip-path:url(#SVGID_1087_);enable-background:new    ;}
+	.st640{clip-path:url(#SVGID_1089_);enable-background:new    ;}
+	.st641{clip-path:url(#SVGID_1091_);enable-background:new    ;}
+	.st642{clip-path:url(#SVGID_1093_);enable-background:new    ;}
+	.st643{clip-path:url(#SVGID_1095_);enable-background:new    ;}
+	.st644{clip-path:url(#SVGID_1097_);enable-background:new    ;}
+	.st645{clip-path:url(#SVGID_1099_);enable-background:new    ;}
+	.st646{clip-path:url(#SVGID_1101_);enable-background:new    ;}
+	.st647{clip-path:url(#SVGID_1103_);enable-background:new    ;}
+	.st648{clip-path:url(#SVGID_1105_);enable-background:new    ;}
+	.st649{clip-path:url(#SVGID_1107_);enable-background:new    ;}
+	.st650{clip-path:url(#SVGID_1109_);enable-background:new    ;}
+	.st651{clip-path:url(#SVGID_1111_);enable-background:new    ;}
+	.st652{clip-path:url(#SVGID_1113_);enable-background:new    ;}
+	.st653{clip-path:url(#SVGID_1115_);enable-background:new    ;}
+	.st654{clip-path:url(#SVGID_1117_);enable-background:new    ;}
+	.st655{clip-path:url(#SVGID_1119_);enable-background:new    ;}
+	.st656{clip-path:url(#SVGID_1121_);enable-background:new    ;}
+	.st657{clip-path:url(#SVGID_1123_);enable-background:new    ;}
+	.st658{clip-path:url(#SVGID_1125_);enable-background:new    ;}
+	.st659{clip-path:url(#SVGID_1127_);enable-background:new    ;}
+	.st660{clip-path:url(#SVGID_1129_);enable-background:new    ;}
+	.st661{clip-path:url(#SVGID_1131_);enable-background:new    ;}
+	.st662{clip-path:url(#SVGID_1133_);enable-background:new    ;}
+	.st663{clip-path:url(#SVGID_1135_);enable-background:new    ;}
+	.st664{clip-path:url(#SVGID_1137_);enable-background:new    ;}
+	.st665{clip-path:url(#SVGID_1139_);enable-background:new    ;}
+	.st666{clip-path:url(#SVGID_1141_);enable-background:new    ;}
+	.st667{clip-path:url(#SVGID_1143_);enable-background:new    ;}
+	.st668{clip-path:url(#SVGID_1145_);enable-background:new    ;}
+	.st669{fill:#C6C6C6;}
+	.st670{fill:url(#SVGID_1146_);}
+</style>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="153.1411" y1="278.7921" x2="140.6646" y2="257.1822">
+	<stop  offset="0" style="stop-color:#9D9D9C"/>
+	<stop  offset="0.1115" style="stop-color:#A9A4A3"/>
+	<stop  offset="0.2788" style="stop-color:#B4A3A1"/>
+	<stop  offset="0.432" style="stop-color:#B89C98"/>
+	<stop  offset="0.5644" style="stop-color:#B89591"/>
+	<stop  offset="0.6609" style="stop-color:#B8928F"/>
+</linearGradient>
+<path style="fill:url(#SVGID_2_);stroke:#575756;stroke-width:0.2172;stroke-linejoin:round;stroke-miterlimit:10;" d="M154.3,250.9
+	c0,0-5.4,0.4-6.1,2.6c-0.7,2.2-2.7,4.9-2.5,8.2s0.4,7.3-1.2,9.3c-1.5,2-1.7,3-3.2,2.9c-1.5-0.1-3.6-0.1-2.7,1.2
+	c0.9,1.3,0.2,2.3,1.5,2s3.4-1.5,3.4-1.5l-3.4,1.5c0,0-3,0.7-3,1.5c0,0.9,0,2.6,0.4,2.5c0.4-0.1,2.5-2.4,4-2.5s2.4-0.8,2.4-0.8
+	l-2.4,0.8c0,0-4,1.7-4,2.5c0,0.8,0.8,1.9,1.5,1.5c0.8-0.4,3.2-1.6,4.4-1.6s-3.7,0.7-3.7,2.1c0,1.5,5,0.3,5,0.3s5.5-2.6,5.5-4.2
+	c0-1.6-0.8-8.2,0.7-11.7c1.5-3.5,5.6-10.6,5.6-10.6L154.3,250.9z"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="448.244" y1="1009.601" x2="434.9007" y2="1001.1614" gradientTransform="matrix(0.8855 0.4646 -0.4646 0.8855 222.7049 -861.1591)">
+	<stop  offset="0" style="stop-color:#9D9D9C"/>
+	<stop  offset="0.1115" style="stop-color:#A9A4A3"/>
+	<stop  offset="0.2788" style="stop-color:#B4A3A1"/>
+	<stop  offset="0.432" style="stop-color:#B89C98"/>
+	<stop  offset="0.5644" style="stop-color:#B89591"/>
+	<stop  offset="0.6609" style="stop-color:#B8928F"/>
+</linearGradient>
+<path style="fill:url(#SVGID_4_);stroke:#575756;stroke-width:0.2172;stroke-linejoin:round;stroke-miterlimit:10;" d="M159.8,221.9
+	c0,0-5-2.2-6.6-0.5c-1.6,1.7-4.7,3.1-6,6.1c-1.4,3-3,6.6-5.3,7.7c-2.3,1.1-2.9,1.8-4.2,1.1s-3.1-1.7-2.9-0.2
+	c0.2,1.5-0.9,2.1,0.4,2.5c1.3,0.4,3.7,0.3,3.7,0.3l-3.7-0.3c0,0-3-0.8-3.4,0c-0.4,0.8-1.2,2.3-0.8,2.4c0.4,0.1,3.3-1,4.7-0.4
+	c1.3,0.6,2.5,0.4,2.5,0.4l-2.5-0.4c0,0-4.3-0.3-4.7,0.4c-0.4,0.7-0.2,2.1,0.7,2.1c0.9,0,3.6,0,4.6,0.6c1,0.5-3.6-1.1-4.2,0.2
+	c-0.7,1.3,4.3,2.6,4.3,2.6s6,0.3,6.8-1.1c0.7-1.4,3.1-7.6,6.1-10s9.9-6.8,9.9-6.8L159.8,221.9z"/>
+<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="11.9662" y1="241.864" x2="146.9043" y2="241.864">
+	<stop  offset="0" style="stop-color:#E0E0E0"/>
+	<stop  offset="1.836829e-02" style="stop-color:#E0E0E0"/>
+	<stop  offset="0.2457" style="stop-color:#E4DDDD"/>
+	<stop  offset="0.4639" style="stop-color:#E5DAD9"/>
+	<stop  offset="0.6609" style="stop-color:#E6D9D8"/>
+</linearGradient>
+<path style="fill:url(#SVGID_6_);stroke:#575756;stroke-width:0.25;stroke-miterlimit:10;" d="M143.6,236.9
+	c-2.2,1.3-4.4,2.4-6.6,3.6c-2.2,1.2-4.4,2.3-6.6,3.4c-4.5,2.2-9,4.3-13.7,6.1c-1.2,0.4-2.4,0.9-3.6,1.3l-1.8,0.6
+	c-0.6,0.2-1.2,0.4-1.9,0.6l-1.9,0.6c-0.6,0.2-1.3,0.3-2,0.5l-1,0.2l-0.5,0.1l-0.5,0.1l-1.8,0.3c-4.9,0.9-9.8,1.5-14.6,2.2
+	c-9.7,1.2-19.5,2-29.3,2.4c-4.9,0.2-9.8,0.3-14.8,0.2c-2.5,0-4.9-0.1-7.4-0.2c-2.6-0.1-5.2-0.4-7.8-0.9c-0.7-0.1-1.3-0.3-2-0.4
+	c-0.7-0.1-1.3-0.3-2-0.5c-0.7-0.2-1.3-0.4-2-0.7c0,0,0,0,0,0c-0.7-0.3-1.3-0.5-2-0.9c-1.3-0.7-2.7-1.5-3.9-2.6
+	c-1.2-1.1-2.4-2.6-3.1-4.3c-0.7-1.7-1-3.7-0.7-5.5c0.1-0.9,0.4-1.8,0.8-2.7c0.4-0.9,0.9-1.7,1.5-2.5c0.7-0.8,1.5-1.6,2.9-2.1
+	c0.2-0.1,0.3-0.1,0.5-0.2c0,0,0,0,0,0l0.7-0.4c1-0.5,2-1.1,3.1-1.7c2.2-1.2,4.4-2.4,6.7-3.4c1.1-0.5,2.3-1,3.5-1.5l1.8-0.6l0.9-0.3
+	l0.9-0.3c4.9-1.5,10-2.4,15-2.6c0.6-0.1,1.3,0,1.9,0l1.9,0c0.6,0,1.3,0,1.9,0.1l1.9,0.1c1.2,0.1,2.5,0.2,3.7,0.3
+	c1.2,0.1,2.4,0.3,3.7,0.4c4.9,0.6,9.7,1.4,14.5,2.3c9.5,1.8,19,4,28.3,6.4c0.8,0.2,1.4,1,1.3,1.9c-0.2,0.9-1.1,1.5-1.9,1.3l0,0
+	c-9.4-2-18.9-3.8-28.4-5.2c-4.8-0.7-9.5-1.3-14.3-1.7c-4.7-0.4-9.5-0.6-14.1-0.3c-4.6,0.4-9.1,1.4-13.4,2.9l-0.8,0.3l-0.8,0.3
+	l-1.6,0.6c-1,0.5-2.1,0.9-3.1,1.5c-2.1,1-4.1,2.2-6.1,3.4c-1,0.6-2,1.3-3.1,1.9l-0.9,0.5c0,0,0,0,0,0c-0.4,0.2-0.8,0.4-1.1,0.6
+	c0.2-0.1,0.1-0.1,0,0.1c-0.2,0.3-0.5,0.9-0.5,1.5c-0.1,0.6,0.1,1.1,0.3,1.6c0.5,1,1.7,2,3.4,2.8c1.7,0.8,3.8,1.2,5.9,1.5
+	c2.1,0.3,4.4,0.4,6.6,0.4c2.4,0,4.7,0,7.1-0.1c4.7-0.1,9.5-0.4,14.2-0.8c9.5-0.8,19-2,28.4-3.6c4.7-0.8,9.4-1.7,14-2.7l1.7-0.4
+	l0.4-0.1l0.4-0.1l0.8-0.2c0.5-0.1,1-0.2,1.5-0.4l1.5-0.5c0.5-0.2,1-0.4,1.6-0.6l1.6-0.6c1-0.4,2.1-0.9,3.1-1.3
+	c4.2-1.9,8.4-4,12.5-6.3c2.1-1.1,4.1-2.3,6.2-3.5c2-1.2,4.1-2.4,6-3.6l0,0c2.4-1.5,5.6-1.4,7.8,0.5c3.6,3.1,3,8.4-0.7,10.7
+	C143.7,236.8,143.6,236.9,143.6,236.9z"/>
+<g>
+	
+		<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="431.2823" y1="-658.721" x2="452.2425" y2="-658.721" gradientTransform="matrix(0.8787 -0.4774 0.4774 0.8787 239.5504 1026.6151)">
+		<stop  offset="0" style="stop-color:#000000;stop-opacity:0"/>
+		<stop  offset="0.6609" style="stop-color:#B8928F"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_8_);" d="M304.6,233.2c0,0,5.2,2.9,6.6,2.8s2.4-0.1,2.4-0.1s2.8-1.9,3.6-1.8s3,0.6,3.8,0.7
+		c0.8,0-1,0-1.1,0.5c-0.1,0.4-0.2,1.1-0.2,1.1s-2.8,0.5-3.6,0.2s0.9,0.2,0.9,0.2s2.7-0.5,3-0.4s2,0.9,2,0.9s2.2-0.2,3,0.2
+		c0.8,0.4,0.8,0.4,0.8,0.4s-1.3,0.2-1.7,0.3s-0.6,0.4-0.6,0.4s0,1.7-0.8,1.7c-0.8,0-2.2-0.1-3-0.4c-0.8-0.3-0.9-0.1-1.4-0.3
+		c-0.5-0.2-0.7-0.9-1.2-1c-0.5-0.1-1.5-0.2-1.5-0.2l1.5,0.2l1.2,1l0,0.4c0,0,1.7,0,2.4,0.4s0.7,0.4,0.7,0.4l-2.4-0.1
+		c0,0-0.3,3.2-2.7,2.1c-2.4-1-2.9-1.7-3.8-1.4c-1,0.3-3.9,0.5-4.5,0.7c-0.6,0.2-1.9,1.3-2.7,0.9c-0.7-0.4-1.7-2.2-1.7-2.2
+		L304.6,233.2z"/>
+	<path class="st26" d="M304.6,233.2l2.2,1.1c0.7,0.3,1.4,0.7,2.2,1c0.7,0.3,1.5,0.6,2.2,0.6l2.4-0.1l-0.1,0c0.7-0.5,1.5-1,2.3-1.4
+		c0.4-0.2,0.8-0.4,1.3-0.5c0.5,0,0.9,0.1,1.4,0.2c0.9,0.2,1.7,0.4,2.6,0.5l0.1,0c0,0,0.1,0,0.1,0.1c0,0.1,0,0.1,0,0.1
+		c0,0-0.1,0.1-0.1,0.1l-0.1,0l-0.2,0l-0.3,0c-0.2,0-0.4,0.1-0.6,0.2c0,0,0,0,0,0.1c0,0,0,0.1,0,0.2l-0.1,0.3l-0.1,0.6l0,0.1l-0.1,0
+		c-0.8,0.1-1.7,0.2-2.5,0.3c-0.4,0-0.9,0-1.3-0.1l-0.1,0l0,0l0,0l0,0c0-0.1-0.1,0.2,0.1-0.2l0,0l0,0l0,0l0.2,0l0.3,0.1l0.6,0.2l0,0
+		c0.9-0.1,1.7-0.3,2.6-0.4c0.1,0,0.2,0,0.3,0c0.1,0,0.2,0.1,0.3,0.1c0.2,0.1,0.4,0.2,0.6,0.3l1.2,0.6l0,0c0.7-0.1,1.3-0.1,2,0
+		c0.3,0,0.7,0.1,1,0.2c0.3,0.1,0.6,0.3,0.9,0.4l0.2,0.1l-0.2,0c-0.4,0.1-0.8,0.1-1.2,0.2c-0.2,0.1-0.4,0.1-0.5,0.2l-0.5,0.3l0-0.1
+		c0,0.4,0,0.8-0.2,1.2c-0.1,0.2-0.2,0.4-0.4,0.5c-0.2,0.1-0.4,0.1-0.6,0.1c-0.8,0-1.6-0.1-2.4-0.3c-0.4-0.1-0.7-0.3-1.1-0.2
+		c-0.4,0-0.9-0.2-1.1-0.5c-0.1-0.2-0.3-0.3-0.4-0.4c-0.1,0-0.1-0.1-0.2-0.1l-0.3,0l-1.2-0.2l0-0.3l1.5,0.2l0,0l0,0l1.2,0.9l0.1,0.1
+		l0,0.1l0,0.4l-0.2-0.2c0.6,0,1.1,0,1.7,0.2c0.3,0.1,0.6,0.1,0.8,0.3l0.7,0.4l0.6,0.3l-0.7,0l-2.4,0l0.2-0.2c-0.1,0.8-0.3,1.6-1,2.2
+		c-0.3,0.3-0.8,0.4-1.2,0.3c-0.4-0.1-0.8-0.2-1.1-0.4c-0.7-0.3-1.4-0.7-2.1-1c-0.3-0.2-0.7-0.3-1-0.2c-0.3,0.1-0.8,0.2-1.1,0.2
+		c-0.8,0.1-1.5,0.2-2.3,0.3c-0.4,0-0.8,0.1-1.1,0.2c-0.3,0.1-0.7,0.3-1,0.5c-0.3,0.2-0.7,0.4-1.1,0.4c-0.2,0-0.4,0-0.6,0
+		c-0.2-0.1-0.4-0.2-0.5-0.4c-0.6-0.6-0.9-1.3-1.3-2l0,0l0,0L304.6,233.2z M304.6,233.2l-1,7.6l0-0.1c0.4,0.7,0.8,1.3,1.3,1.9
+		c0.5,0.6,1.3,0.2,1.9-0.1c0.3-0.2,0.6-0.4,1.1-0.5c0.4-0.1,0.8-0.1,1.2-0.2l2.3-0.3c0.4-0.1,0.7-0.1,1.1-0.2
+		c0.4-0.1,0.9,0.1,1.2,0.2c0.7,0.3,1.4,0.7,2.1,1c0.7,0.3,1.4,0.6,2,0.1c0.5-0.4,0.8-1.2,0.9-1.9l0-0.2l0.2,0l2.4,0.1l-0.1,0.3
+		l-0.7-0.4c-0.2-0.1-0.5-0.2-0.7-0.3c-0.5-0.1-1.1-0.1-1.6-0.2l-0.2,0l0-0.2l0-0.4l0.1,0.1l-1.2-1l0.1,0l-1.5-0.2l0-0.3l1.2,0.2
+		l0.3,0c0.1,0,0.2,0.1,0.3,0.1c0.2,0.1,0.3,0.3,0.5,0.4c0.2,0.3,0.5,0.5,0.9,0.5c0.4,0,0.9,0.2,1.2,0.3c0.8,0.2,1.6,0.3,2.3,0.3
+		c0.2,0,0.4,0,0.5-0.1c0.1-0.1,0.2-0.2,0.3-0.4c0.1-0.4,0.2-0.8,0.2-1.2l0,0l0,0l0.5-0.3c0.2-0.1,0.4-0.2,0.6-0.2
+		c0.4-0.1,0.8-0.1,1.2-0.2l0,0.1c-0.3-0.1-0.6-0.3-0.9-0.4c-0.3-0.1-0.6-0.2-1-0.2c-0.7,0-1.3,0-2,0.1l0,0l0,0l-1.2-0.6
+		c-0.2-0.1-0.4-0.2-0.6-0.3c-0.1,0-0.2-0.1-0.3-0.1l-0.3,0c-0.9,0.1-1.7,0.3-2.6,0.4l0,0l0,0l-0.6-0.2l-0.3-0.1l-0.2,0l0,0l0,0l0,0
+		c0.1-0.5,0-0.1,0.1-0.2l0,0l0,0l0,0l0.1,0c0.4,0.1,0.8,0.1,1.2,0.1c0.8,0,1.7-0.2,2.5-0.3l-0.1,0.1l0.1-0.7l0.1-0.3
+		c0-0.1,0-0.1,0-0.2c0-0.1,0.1-0.2,0.2-0.2c0.2-0.2,0.5-0.2,0.7-0.2l0.3-0.1l0.2,0c0,0,0,0,0,0c0,0-0.1,0-0.1,0.1c0,0,0,0.1,0,0.1
+		c0,0.1,0.1,0.1,0.1,0.1l-0.1,0c-0.9-0.1-1.8-0.3-2.6-0.5c-0.4-0.1-0.9-0.2-1.3-0.2c-0.4,0-0.8,0.3-1.2,0.4
+		c-0.8,0.4-1.6,0.9-2.3,1.3l0,0l0,0l-2.4,0.1c-0.9,0-1.6-0.4-2.3-0.7c-0.7-0.3-1.4-0.7-2.2-1C306,234,305.2,233.6,304.6,233.2z"/>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="318.6262" y1="-160.7108" x2="339.5864" y2="-160.7108" gradientTransform="matrix(0.9777 -0.2101 0.2101 0.9777 25.725 446.3629)">
+		<stop  offset="0" style="stop-color:#000000;stop-opacity:0"/>
+		<stop  offset="0.6609" style="stop-color:#B8928F"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_10_);" d="M306.4,214.1c0,0,4.2,4.2,5.5,4.5c1.3,0.3,2.3,0.6,2.3,0.6s3.3-1,4-0.7
+		c0.7,0.3,2.7,1.4,3.4,1.7s-0.9-0.2-1.2,0.1c-0.2,0.4-0.6,1-0.6,1s-2.8-0.3-3.6-0.8c-0.8-0.5,0.8,0.5,0.8,0.5s2.7,0.3,3,0.4
+		c0.3,0.1,1.7,1.4,1.7,1.4s2.2,0.4,2.9,1c0.7,0.6,0.7,0.6,0.7,0.6s-1.3-0.2-1.7-0.1c-0.3,0.1-0.7,0.2-0.7,0.2s-0.4,1.6-1.2,1.4
+		c-0.8-0.2-2.1-0.7-2.8-1.2s-0.8-0.3-1.3-0.6c-0.4-0.3-0.4-1-0.9-1.3s-1.4-0.6-1.4-0.6l1.4,0.6l0.9,1.3l-0.1,0.4
+		c0,0,1.6,0.5,2.2,1.1c0.6,0.6,0.6,0.6,0.6,0.6l-2.3-0.7c0,0-1.2,3-3.2,1.3c-2-1.7-2.3-2.4-3.3-2.4s-3.9-0.7-4.5-0.6
+		c-0.6,0-2.2,0.7-2.8,0.1c-0.6-0.6-1-2.6-1-2.6L306.4,214.1z"/>
+	<path class="st26" d="M306.4,214l1.8,1.6c0.6,0.5,1.2,1,1.8,1.5c0.6,0.5,1.3,1,2,1.2l2.3,0.5l-0.1,0c0.9-0.3,1.7-0.5,2.6-0.7
+		c0.4-0.1,0.9-0.2,1.4-0.1c0.5,0.1,0.8,0.4,1.3,0.6c0.8,0.4,1.6,0.9,2.4,1.2l0.1,0c0,0,0.1,0,0.1,0.1c0,0.1,0,0.1,0,0.1
+		c0,0-0.1,0.1-0.1,0.1l-0.1,0l-0.2,0l-0.3,0c-0.2,0-0.4,0-0.6,0c0,0-0.1,0-0.1,0c0,0-0.1,0.1-0.1,0.1l-0.2,0.3l-0.3,0.6l-0.1,0.1
+		l-0.1,0c-0.8-0.1-1.7-0.3-2.5-0.5c-0.4-0.1-0.8-0.2-1.2-0.5l-0.1,0l0,0l0,0l0,0c0.1-0.1-0.1,0.2,0.1-0.2l0,0l0,0l0,0l0.1,0.1
+		l0.3,0.2l0.5,0.3l0,0c0.9,0.1,1.7,0.2,2.6,0.3c0.1,0,0.2,0,0.3,0.1c0.1,0,0.2,0.1,0.3,0.2c0.2,0.1,0.3,0.3,0.5,0.4l1,0.9l0,0
+		c0.7,0.1,1.3,0.3,1.9,0.5c0.3,0.1,0.6,0.2,0.9,0.5c0.3,0.2,0.5,0.4,0.7,0.7l0.2,0.1l-0.2,0c-0.4-0.1-0.8-0.1-1.2-0.1
+		c-0.2,0-0.4,0-0.6,0l-0.6,0.2l0-0.1c-0.1,0.4-0.3,0.8-0.5,1.1c-0.1,0.2-0.3,0.3-0.5,0.4c-0.2,0-0.4,0-0.6-0.1
+		c-0.8-0.2-1.5-0.5-2.2-1c-0.4-0.2-0.6-0.5-1-0.6c-0.4-0.1-0.8-0.5-0.9-0.8c-0.1-0.2-0.2-0.4-0.3-0.5c-0.1-0.1-0.1-0.1-0.2-0.1
+		l-0.3-0.1l-1.1-0.5l0.1-0.3l1.4,0.6l0,0l0,0l0.9,1.3l0,0.1l0,0.1l-0.1,0.4l-0.1-0.2c0.5,0.2,1.1,0.4,1.6,0.6
+		c0.3,0.1,0.5,0.3,0.7,0.5l0.6,0.6l0.4,0.5l-0.6-0.2l-2.3-0.7l0.2-0.1c-0.3,0.7-0.8,1.5-1.6,1.8c-0.4,0.2-0.9,0.1-1.3-0.1
+		c-0.4-0.2-0.7-0.5-1-0.7c-0.6-0.5-1.2-1.1-1.7-1.6c-0.3-0.2-0.6-0.5-0.9-0.5c-0.3,0-0.8,0-1.2-0.1c-0.8-0.1-1.5-0.3-2.3-0.4
+		c-0.4-0.1-0.8-0.1-1.1-0.2c-0.3,0-0.7,0.1-1.1,0.2c-0.4,0.1-0.8,0.1-1.2,0.1c-0.2,0-0.4-0.1-0.6-0.2c-0.2-0.1-0.3-0.3-0.4-0.5
+		c-0.4-0.7-0.5-1.5-0.7-2.3l0,0l0,0L306.4,214z M306.4,214.1l-3.1,7l0-0.1c0.2,0.7,0.4,1.5,0.7,2.2c0.3,0.8,1.2,0.6,1.9,0.4
+		c0.4-0.1,0.7-0.2,1.2-0.2c0.4,0,0.8,0.1,1.2,0.1l2.3,0.4c0.4,0.1,0.7,0.1,1.2,0.1c0.4,0,0.8,0.3,1.1,0.6c0.6,0.5,1.1,1.1,1.7,1.6
+		c0.6,0.5,1.2,1,1.9,0.7c0.6-0.2,1.1-0.9,1.4-1.6l0.1-0.2l0.2,0l2.3,0.7l-0.2,0.3l-0.6-0.6c-0.2-0.2-0.4-0.3-0.6-0.5
+		c-0.5-0.3-1-0.4-1.5-0.6l-0.2-0.1l0-0.2l0.1-0.4l0,0.1l-0.9-1.3l0.1,0.1l-1.4-0.6l0.1-0.3l1.1,0.5l0.3,0.1c0.1,0.1,0.2,0.1,0.3,0.2
+		c0.1,0.2,0.2,0.4,0.3,0.6c0.1,0.4,0.4,0.6,0.8,0.7c0.4,0.1,0.8,0.4,1.1,0.6c0.7,0.4,1.4,0.7,2.2,1c0.2,0.1,0.4,0.1,0.5,0.1
+		c0.2,0,0.3-0.2,0.4-0.3c0.2-0.3,0.4-0.7,0.5-1.1l0,0l0,0l0.6-0.2c0.2-0.1,0.4,0,0.6,0c0.4,0,0.8,0.1,1.2,0.1l-0.1,0.1
+		c-0.2-0.2-0.5-0.5-0.7-0.7c-0.2-0.2-0.6-0.3-0.9-0.4c-0.6-0.2-1.3-0.4-1.9-0.5l0,0l0,0l-1-0.9c-0.2-0.1-0.3-0.3-0.5-0.4
+		c-0.1-0.1-0.2-0.1-0.2-0.1l-0.3-0.1c-0.9-0.1-1.7-0.2-2.6-0.3l0,0l0,0l-0.5-0.3l-0.3-0.2l-0.1-0.1l0,0l0,0l0,0
+		c0.2-0.4,0.1-0.1,0.1-0.2l0,0l0,0l0,0l0.1,0c0.3,0.2,0.7,0.3,1.1,0.4c0.8,0.2,1.6,0.3,2.5,0.4l-0.1,0.1l0.3-0.6l0.2-0.3
+		c0-0.1,0-0.1,0.1-0.2c0.1-0.1,0.1-0.1,0.2-0.2c0.3-0.1,0.5-0.1,0.7,0l0.3,0l0.2,0c0,0,0,0,0,0c0,0-0.1,0-0.1,0.1c0,0-0.1,0.1,0,0.1
+		c0,0.1,0.1,0.1,0.1,0.1l-0.1,0c-0.9-0.3-1.6-0.8-2.4-1.2c-0.4-0.2-0.8-0.4-1.2-0.5c-0.4-0.1-0.8,0-1.3,0.1
+		c-0.9,0.2-1.7,0.4-2.6,0.6l0,0l0,0l-2.3-0.6c-0.8-0.3-1.4-0.8-2-1.3c-0.6-0.5-1.2-1.1-1.8-1.6C307.6,215.2,307,214.6,306.4,214.1z"
+		/>
+</g>
+<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="142.0654" y1="231.4059" x2="280.8935" y2="231.4059">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#DADADA"/>
+</linearGradient>
+<path style="fill:url(#SVGID_12_);stroke:#575756;stroke-width:0.1629;stroke-miterlimit:10;" d="M276.7,229.2
+	c4.1-9.9,8.7-23.8-4.6-26.1c-29-5.2-58-7.5-83.6,5.2c-7,3.5-17.4,0.6-20.3,6.4c-2.9,7.5-4.6,11.6-13.9,12.8
+	c-1.7,0.6-1.7,4.6-2.9,7.5c-1.7,2.3-4.6,1.7-7.5,1.7c-0.7,0-1.3,0.3-1.7,0.7c0.6,0.8,1.3,1.2,2.2,1.1c2.8-0.1,10.4,6.6,8.8,8.9
+	c-0.9,1.3,0.7,7.8,3.5,9.6c0,0,13.5,7.5,20.1,6.8c3.9-0.5,10.3-2.5,15-4.9c3.4-1.8,7.3-2.3,11.1-1.5c6.3,1.4,17.2,2.9,29.5,1
+	c18.9-2.9,39.1-7.4,43.9-8.1C275.1,243.3,274.2,236.1,276.7,229.2z"/>
+<g>
+	<path class="st56" d="M284.4,149.4l-2.2,0.9c0,0,0.9,16.9,0.9,17.5c0.1,0.6,23-12.5,23-12.5l-1.2-16L284.4,149.4z"/>
+	<path class="st57" d="M288.6,156.3c0,0,7.4-0.3,7.7-8.5"/>
+	<path class="st58" d="M291.7,142.3l3.4,4.4c3.3,3.1-4.2,11.5-7.6,8.9c-0.5-0.4-6.1-4.4-6.1-4.4L291.7,142.3z"/>
+	
+		<ellipse transform="matrix(0.7602 -0.6496 0.6496 0.7602 -26.6352 221.308)" class="st56" cx="286.5" cy="146.7" rx="6.8" ry="4.4"/>
+	<polygon class="st56" points="285.3,169.5 285.6,181.1 307.1,166.2 306.5,159.8 	"/>
+	<polygon class="st58" points="283.1,167.8 288.2,171.3 306.5,159.8 306.1,155.3 	"/>
+	<path class="st56" d="M311.6,138.3c0,0,6.1-0.3,6.7,0c0.6,0.3,4.4,2.1,4.4,2.1l1.3,16.5l-3.3,2.1l-7.1,0.8L311.6,138.3z"/>
+	<path class="st58" d="M285.6,181.1L285.6,181.1h82.3v-16.8h-21.2c0,0-15.3,3.3-18.7-1.5c-3.4-4.8-4.2-5.9-4.2-5.9l-3.2,2.1
+		l-7.2,0.8v3.3l-6.4,3"/>
+	<path class="st59" d="M322.6,140.4l1.3,16.5l4.8,6.8c0,0,4,2.4,9.9,1.8c5.9-0.6,8.1-1.2,8.1-1.2h21.2l-6.7-20.7l-15.8,0.3l-6.2,0.9
+		c-1.2,0.2-2.4,0.2-3.6,0.1l-7.6-0.6C328.1,144.4,325.7,144.6,322.6,140.4z"/>
+	<line class="st57" x1="305.1" y1="140" x2="306.1" y2="154.7"/>
+	<line class="st57" x1="311.7" y1="138.9" x2="313.4" y2="160.1"/>
+	<path class="st60" d="M303.1,112l6.7,98.1c2.6,1.8,5.2,1.8,7.5,0l-8.4-99.5C308.9,110.6,306.6,106.8,303.1,112z"/>
+</g>
+<radialGradient id="SVGID_13_" cx="309.7858" cy="177.9921" r="4.8177" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#000000"/>
+	<stop  offset="1" style="stop-color:#3C3C3B"/>
+</radialGradient>
+<path style="fill:url(#SVGID_13_);stroke:#575756;stroke-width:0.1629;stroke-miterlimit:10;" d="M314.3,178.9
+	c-0.1,0-0.2-0.1-0.2-0.1s-2.2-7.2-6.4-5.7s-2,8.3-1.4,9.4c0.1,0.1,0.1,0.3,0.1,0.6C308.5,180.4,311.5,179.9,314.3,178.9z"/>
+<polygon class="st60" points="350.1,201.3 352.4,190.2 405.1,189.5 409.3,190.8 406,199.9 360,203.6 "/>
+<path class="st62" d="M407.8,201.6c-0.1,0.1-0.1,0.2-0.2,0.3c-3.1,3.2-3.9,3.2-3.9,3.2l-38.1,1c0,0,0,0-0.1,0
+	c-0.6,0-9.7-0.4-15.1-3.3c-1.1-0.6-0.7-2.2,0.6-2.3l42.2-0.4c0.2,0,0.4-0.1,0.6-0.1l3.4-1.8c0.2-0.1,0.3-0.1,0.5-0.1l5.1-0.2
+	c0.2,0,0.3,0,0.5-0.1c1.2-0.6,5.4-3.3,3.6-6.6c-1.9-3.7-4.6-1.7-5.4-1.7c-0.7,0,0.4-6.2,0.8-7.2c0.1-0.2,0.2-0.4,0.4-0.5l6.9-5.7
+	c0.2-0.2,0.4-0.3,0.7-0.3l5-0.3c0.8-0.1,1.5,0.7,1.2,1.5l-4.1,15.1c0,0.1,0,0.1-0.1,0.2L407.8,201.6z"/>
+<radialGradient id="SVGID_14_" cx="233.5873" cy="205.3288" r="82.3637" gradientTransform="matrix(-3.322079e-02 0.9994 -1.6201 -5.385036e-02 573.9982 -17.0725)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#000000"/>
+	<stop  offset="1" style="stop-color:#3C3C3B"/>
+</radialGradient>
+<path style="fill:url(#SVGID_14_);stroke:#575756;stroke-width:0.5803;stroke-miterlimit:10;" d="M357.1,185c-4-1.3-14.4-1.8-19-3.1
+	s-7.1-2.5-14.1-2.2c-5.9,0.2-8.9-0.5-9.7-0.8c-2.9,1-5.9,1.5-7.8,4.2c0,1.4-1.6,3.8-3.8,4.1c-2.5,0.3-12.2,0-17.7,2.2
+	c-5.5,2.2,0.9,3.3-16.7,2.8c-17.6-0.5-65.5-2.4-71.2-2c-5.7,0.4-16-4.8-36.7,14.4s-25.4,19-22.5,24.8c1.9,3.8,3,6.7,4.3,8.1
+	c0.4-0.4,1-0.7,1.7-0.7c2.9,0,5.8,0.6,7.5-1.7c1.2-2.9,1.2-7,2.9-7.5c9.3-1.2,11-5.2,13.9-12.8c2.9-5.8,13.3-2.9,20.3-6.4
+	c25.5-12.8,54.5-10.4,83.6-5.2c13.3,2.3,8.7,16.2,4.6,26.1c-2.4,6.9-1.6,14.1-0.6,21.1c0.1,0,0.1,0,0.2,0c4.4-0.6,19.3,0.8,25-3.7
+	c5.6-4.4,15.1-24.9,15.4-27.6c0.3-2.7,1.9,0.2,6-1.7c4.1-1.9,15.1-6.4,17.6-9.8c2.5-3.4,15.2-9.2,15.7-12.1c0.5-2.9,0.7-4.4,0.7-4.4
+	S361.1,186.3,357.1,185z"/>
+<linearGradient id="SVGID_15_" gradientUnits="userSpaceOnUse" x1="313.5317" y1="212.8293" x2="311.0909" y2="208.6017">
+	<stop  offset="0.3391" style="stop-color:#B8928F"/>
+	<stop  offset="1" style="stop-color:#4A4A49"/>
+</linearGradient>
+<path style="fill:url(#SVGID_15_);stroke:#575756;stroke-width:0.1451;stroke-miterlimit:10;" d="M309.3,212.5l-1.1,2.4
+	c3.1,1.1,9.3-6.6,8.6-7.4c-1.2-1.4-3-0.9-4.2,0.6C311.5,209.5,309.3,212.5,309.3,212.5z"/>
+<g>
+	
+		<radialGradient id="SVGID_16_" cx="1508.6912" cy="-1083.1086" r="4.4734" gradientTransform="matrix(-0.906 0.4232 0.4532 0.9702 2189.4187 606.1282)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFBEF;stop-opacity:0.5"/>
+		<stop  offset="8.508676e-03" style="stop-color:#F1EBDF;stop-opacity:0.5097"/>
+		<stop  offset="5.017496e-02" style="stop-color:#B2AAA1;stop-opacity:0.5574"/>
+		<stop  offset="9.418973e-02" style="stop-color:#827A71;stop-opacity:0.6078"/>
+		<stop  offset="0.1398" style="stop-color:#5E564F;stop-opacity:0.66"/>
+		<stop  offset="0.1876" style="stop-color:#453D37;stop-opacity:0.7146"/>
+		<stop  offset="0.2381" style="stop-color:#322C26;stop-opacity:0.7724"/>
+		<stop  offset="0.2926" style="stop-color:#26211B;stop-opacity:0.8348"/>
+		<stop  offset="0.3541" style="stop-color:#1E1A14;stop-opacity:0.9051"/>
+		<stop  offset="0.437" style="stop-color:#1C1812"/>
+	</radialGradient>
+	<path style="fill:url(#SVGID_16_);" d="M327.2,196.8c-0.1,0.1,0,0.3,0.1,0.2c1-0.1,3.8-0.5,4.7-0.8c0.9-0.3,2.3-3.2,2.8-4.3
+		c0.1-0.2-0.1-0.3-0.3-0.3c-1,0.5-3.3,1.6-4.1,1.9C329.5,193.9,327.8,196,327.2,196.8z"/>
+	<path class="st26" d="M327.2,196.8c-0.1,0.1,0,0.2,0.1,0.2c0.1,0,0.2,0,0.3,0c0.2,0,0.4-0.1,0.6-0.1l1.2-0.2
+		c0.8-0.2,1.6-0.3,2.4-0.5c0.4-0.1,0.6-0.4,0.9-0.7c0.3-0.3,0.5-0.7,0.7-1c0.4-0.7,0.8-1.5,1.1-2.2l0.1-0.3c0-0.1,0-0.1,0-0.1
+		c0-0.1-0.3,0.1-0.5,0.2l-1.1,0.5c-0.8,0.4-1.5,0.7-2.3,1.1c-0.8,0.3-1.3,0.9-1.9,1.4C328.3,195.6,327.7,196.2,327.2,196.8z
+		 M327.2,196.8c0.5-0.7,1-1.3,1.5-2c0.5-0.6,1.1-1.3,2-1.6c0.8-0.4,1.5-0.7,2.3-1l1.1-0.5l0.3-0.1c0.1,0,0.3-0.1,0.4,0
+		c0.1,0.1,0.2,0.3,0.1,0.4l-0.1,0.3c-0.4,0.7-0.8,1.5-1.2,2.2c-0.2,0.4-0.4,0.7-0.7,1.1c-0.3,0.3-0.5,0.7-1,0.9
+		c-0.8,0.3-1.6,0.4-2.5,0.5l-1.2,0.1l-0.6,0.1c-0.1,0-0.2,0-0.3,0C327.1,197.1,327.1,196.9,327.2,196.8z"/>
+</g>
+<ellipse transform="matrix(0.906 -0.4232 0.4232 0.906 -50.8673 158.6152)" class="st39" cx="331.8" cy="193.9" rx="0.6" ry="0.5"/>
+<g>
+	<path class="st56" d="M291.2,246.8l-2.2,0.9c0,0,0.9,16.9,0.9,17.5c0.1,0.6,23-12.5,23-12.5l-1.2-16L291.2,246.8z"/>
+	<path class="st57" d="M295.3,254.3c0,0,7.4-0.3,7.7-8.5"/>
+	<path class="st58" d="M298.4,240.3l3.4,4.4c3.3,3.1-4.2,11.5-7.6,8.9c-0.5-0.4-6.1-4.4-6.1-4.4L298.4,240.3z"/>
+	
+		<ellipse transform="matrix(0.7602 -0.6496 0.6496 0.7602 -88.6545 249.1817)" class="st56" cx="293.3" cy="244.7" rx="6.8" ry="4.4"/>
+	<polygon class="st56" points="292.1,267 292.4,278.6 313.9,263.7 313.3,257.3 	"/>
+	<polygon class="st58" points="289.8,265.3 295,268.7 313.3,257.3 312.9,252.8 	"/>
+	<path class="st56" d="M318.4,235.8c0,0,6.1-0.3,6.7,0c0.6,0.3,4.4,2.1,4.4,2.1l1.3,16.5l-3.3,2.1l-7.1,0.8L318.4,235.8z"/>
+	<path class="st58" d="M292.4,278.6v1.4h82.3v-18.2h-21.2c0,0-15.3,3.3-18.7-1.5c-3.4-4.8-4.2-5.9-4.2-5.9l-3.2,2.1l-7.2,0.8v3.3
+		l-6.4,3"/>
+	<path class="st56" d="M329.4,237.9l1.3,16.5l4.8,6.8c0,0,4,2.4,9.9,1.8c5.9-0.6,8.1-1.2,8.1-1.2h21.2l-6.7-20.7l-15.8,0.3l-6.2,0.9
+		c-1.2,0.2-2.4,0.2-3.6,0.1l-7.6-0.6C334.8,241.8,332.5,242.1,329.4,237.9z"/>
+	<line class="st57" x1="311.9" y1="237.4" x2="312.9" y2="252.2"/>
+	<line class="st57" x1="318.5" y1="236.3" x2="320.2" y2="257.5"/>
+	<path class="st60" d="M309.9,209.5l6.7,98.1c2.6,1.8,5.2,1.8,7.5,0l-8.4-99.5C315.7,208,313.4,204.3,309.9,209.5z"/>
+</g>
+<g>
+	<polygon class="st66" points="398.2,181.8 398.9,184.1 395.3,185.6 395,183.3 	"/>
+	<path class="st67" d="M402.6,189.1c-1.5,0.1-2.9,1.1-3.3,2.4l-24.6,0.6l-5.3,1l-28.5,0.6l-2-0.4c0,0,0.3,1.2,1.1,1.2
+		s29.6-0.6,29.6-0.6l4.8,0.6l1.9,1.6l26.1-0.4c1.8,0,3.3-1.7,3.3-3.4S405.6,188.9,402.6,189.1z"/>
+	<path class="st66" d="M404.4,192.3c0,0.6-0.4,1.1-1.1,1.1s-1.3-0.5-1.3-1.1c0-0.6,0.6-1.1,1.3-1.1S404.4,191.7,404.4,192.3z"/>
+	<path class="st60" d="M398.9,186.8l-3.6,1l-0.4-4.4l3.2-1.5l-1.1-2.3l-3.5,1l-24.5,1l-29.5,0.8c-0.4,0-0.8,0.2-1,0.6
+		c-0.2,0.3-0.2,0.8,0,1.1c1.1,2,1.1,4.7,0.1,8.4c-0.1,0.4,0,0.7,0.2,1c0.2,0.3,0.6,0.4,0.9,0.4c0,0,0,0,0,0l29.5-0.6l5.3-1l24.6-0.6
+		c0.3-1.2,1.4-1.8,3.2-2.3l-1.8-2.6L398.9,186.8z M374.5,190.9l-33.1,0.6c0.6-2.7,0.6-5,0-6.9l32.9-0.8L374.5,190.9z"/>
+	<g>
+		<path class="st60" d="M402.1,182.3L398,175l-0.8,4.8l3.9,9.8C401,189.6,401.7,182.8,402.1,182.3z"/>
+		<polygon class="st60" points="402.1,182.3 409.4,176.1 405.9,167.3 398,175 		"/>
+		<polygon class="st60" points="409.4,176.1 416.2,175.5 414.1,167.3 405.9,167.3 		"/>
+		<path class="st68" d="M401.7,176.1c0,0,3.6-0.1,3.7-4.1"/>
+		<path class="st69" d="M403.3,169.3l1.6,2.1c1.6,1.5-2,5.6-3.7,4.3c-0.2-0.2-2.9-2.2-2.9-2.2L403.3,169.3z"/>
+		
+			<ellipse transform="matrix(0.7602 -0.6496 0.6496 0.7602 -15.311 301.4531)" class="st70" cx="400.8" cy="171.5" rx="3.3" ry="2.1"/>
+	</g>
+</g>
+<g>
+	<linearGradient id="SVGID_17_" gradientUnits="userSpaceOnUse" x1="305.2019" y1="208.2326" x2="317.0997" y2="208.2326">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="1" style="stop-color:#3C3C3B"/>
+	</linearGradient>
+	<path class="st32" d="M316.9,207.5c0,0-3.6-1.2-4.2,0.6c-0.6,1.7-3,3-3.3,4.5c-0.3,1.5-1.3,2.6-1.3,2.6s-4.2-2.8-2.4-6.6
+		c1.7-3.8,4.3-7.2,6.6-7.2S318,204.7,316.9,207.5z"/>
+	<path class="st26" d="M316.9,207.5c-1.1-0.3-2.2-0.4-3.2-0.2c-0.3,0.1-0.5,0.2-0.6,0.4c-0.2,0.2-0.2,0.4-0.3,0.7
+		c-0.2,0.5-0.6,1-1,1.4c-0.7,0.8-1.6,1.5-2.1,2.5c-0.1,0.1-0.1,0.2-0.1,0.3c0,0.1-0.1,0.3-0.1,0.4c-0.1,0.3-0.2,0.5-0.3,0.8
+		c-0.2,0.5-0.5,1-0.9,1.4l-0.1,0.2l-0.2-0.1c-0.9-0.7-1.7-1.5-2.3-2.5c-0.6-1-0.8-2.2-0.5-3.3c0.1-0.6,0.4-1.1,0.6-1.6
+		c0.2-0.5,0.5-1,0.8-1.5c0.6-1,1.2-1.9,1.9-2.7c0.7-0.8,1.5-1.7,2.6-2.1c0.5-0.2,1.1-0.3,1.7-0.2c0.6,0.1,1.1,0.3,1.6,0.6
+		c1,0.6,1.8,1.4,2.3,2.4C317.1,205.2,317.4,206.4,316.9,207.5z M316.9,207.4c0.4-1,0.2-2.2-0.4-3.1c-0.6-0.9-1.4-1.7-2.3-2.3
+		c-0.9-0.6-2.1-0.8-3.1-0.3c-1,0.5-1.8,1.3-2.5,2.1c-0.7,0.8-1.3,1.8-1.8,2.7c-0.3,0.5-0.5,1-0.8,1.5c-0.2,0.5-0.5,1-0.6,1.5
+		c-0.2,1,0,2.1,0.5,3.1c0.5,0.9,1.3,1.7,2.2,2.3l-0.3,0c0.3-0.4,0.6-0.9,0.8-1.3c0.1-0.2,0.2-0.5,0.3-0.7c0-0.1,0.1-0.3,0.1-0.4
+		c0-0.1,0.1-0.3,0.1-0.4c0.6-1.1,1.5-1.7,2.2-2.5c0.4-0.4,0.7-0.8,0.9-1.3c0.1-0.2,0.2-0.5,0.4-0.8c0.2-0.2,0.5-0.4,0.8-0.4
+		c0.6-0.2,1.1-0.1,1.7,0C315.8,207.1,316.4,207.3,316.9,207.4z"/>
+</g>
+<g>
+	<path class="st72" d="M314,192.6c-0.3,0-0.7-0.1-1-0.2c-1.3-0.4-2.4-1.5-2.8-2.7l0-0.1c-0.4-0.7-0.8-1.8-0.4-2.7
+		c1-2.4,2.4-2.7,4.3-3.1c0.4-0.1,0.9-0.2,1.4-0.3c0.6-0.2,1.1-0.4,1.6-0.6c0.8-0.3,1.5-0.6,2.4-0.7c0.4,0,0.7-0.1,1.1-0.1
+		c0.5,0,1,0,1.5,0c0.5,0,1,0,1.5,0c0.2,0,0.4,0,0.5,0l0.2,0c0.4,0,0.8,0.1,1.2,0.2c0.2,0,0.3,0,0.5,0c0.5,0,1,0.1,1.4,0.2l0.1,0
+		c2.2,0.2,3.2,2.1,3.1,3.9c-0.1,1.3-0.9,2.9-2.9,2.9l0,0c-0.1,0-0.2,0-0.3,0l-0.1,0c-0.3,0-0.6,0-0.8,0c-0.8,0-1.5,0.1-2.1,0.3
+		c-0.5,0.1-0.9,0.3-1.5,0.6c-1.3,0.7-2.3,1.1-3.8,1.1l-0.5,0c-1.1,0.1-2.1,0.3-3,0.7C315,192.5,314.5,192.6,314,192.6z"/>
+	<path class="st73" d="M320.5,182.3L320.5,182.3c0.5,0,1,0,1.5,0c0.5,0,1,0,1.5,0c0.2,0,0.4,0,0.5,0c0.1,0,0.1,0,0.2,0
+		c0.4,0,0.8,0.1,1.2,0.2l0.1,0l0.1,0c0.1,0,0.3,0,0.4,0c0.5,0,0.9,0.1,1.4,0.2l0.1,0l0,0c2.1,0.2,3.1,2.1,3,3.7
+		c-0.1,1.3-0.8,2.8-2.8,2.8c-0.1,0-0.2,0-0.3,0l-0.2,0c-0.2,0-0.5,0-0.7,0c-0.8,0-1.5,0.1-2.2,0.3c-0.5,0.1-0.9,0.3-1.5,0.6
+		c-1.3,0.7-2.3,1.1-3.7,1.1c-0.1,0-0.3,0-0.5,0c-1.2,0.1-2.2,0.3-3,0.7c-0.6,0.3-1.1,0.4-1.6,0.4c-0.3,0-0.7,0-1-0.2
+		c-1.2-0.4-2.3-1.4-2.7-2.6l0-0.1l0,0l0,0l0,0c-0.4-0.7-0.8-1.7-0.4-2.6c1-2.3,2.2-2.6,4.2-3c0.4-0.1,0.9-0.2,1.4-0.3
+		c0.6-0.2,1.1-0.4,1.6-0.6c0.8-0.3,1.5-0.6,2.4-0.7C319.8,182.3,320.1,182.3,320.5,182.3 M320.5,182.1c-0.4,0-0.7,0-1.1,0.1
+		c-1.6,0.2-2.6,0.9-4.1,1.3c-2.7,0.7-4.5,0.5-5.7,3.5c-0.4,0.9-0.1,2,0.4,2.8c0,0,0,0.1,0,0.1c0.4,1.3,1.6,2.4,2.8,2.7
+		c0.4,0.1,0.7,0.2,1.1,0.2c0.6,0,1.1-0.2,1.7-0.4c0.9-0.4,1.9-0.6,3-0.7c0.2,0,0.3,0,0.5,0c1.5-0.1,2.5-0.5,3.8-1.2
+		c0.5-0.3,1-0.5,1.5-0.6c0.7-0.2,1.4-0.3,2.1-0.3c0.2,0,0.5,0,0.7,0c0.1,0,0.1,0,0.2,0c0.1,0,0.2,0,0.3,0c4.1,0,4-6.5-0.2-7
+		c0,0-0.1,0-0.1,0c-0.5-0.1-1-0.2-1.5-0.2c-0.2,0-0.3,0-0.5,0c-0.4-0.1-0.8-0.2-1.2-0.2c-0.1,0-0.1,0-0.2,0c-0.2,0-0.4,0-0.5,0
+		C322.5,182.2,321.5,182.1,320.5,182.1L320.5,182.1z"/>
+</g>
+<path class="st74" d="M325.6,183.8C325.6,183.8,325.6,183.8,325.6,183.8c-0.6-0.2-1.1-0.2-1.5-0.1c-0.3-0.1-0.7-0.2-1.1-0.2
+	c-1.2,0-2.3-0.1-3.5,0c-1.2,0.1-1.9,0.7-3,1c-2,0.5-3.4,0.4-4.3,2.6c-0.3,0.7-0.1,1.5,0.3,2.1c0,0,0,0,0,0.1c0.3,1,1.2,1.8,2.1,2
+	c0.8,0.2,1.4,0.1,2.1-0.2c0.7-0.3,1.4-0.5,2.2-0.5c0.1,0,0.2,0,0.3,0c1.1-0.1,1.9-0.4,2.9-0.9c0.4-0.2,0.7-0.3,1.1-0.5
+	c0.7-0.2,1.4-0.3,2.1-0.2c0.1,0,0.1,0,0.2,0C328.9,189.3,328.9,184.2,325.6,183.8z"/>
+<path class="st75" d="M323.2,185.4C323.2,185.4,323.2,185.4,323.2,185.4c-0.3-0.1-0.6-0.1-0.8-0.1c-0.2-0.1-0.4-0.1-0.6-0.1
+	c-0.6,0-1.3-0.1-1.9,0c-0.7,0.1-1.1,0.4-1.7,0.6c-1.1,0.3-1.9,0.2-2.4,1.5c-0.2,0.4,0,0.8,0.2,1.2c0,0,0,0,0,0
+	c0.2,0.5,0.7,1,1.2,1.1c0.5,0.1,0.8,0.1,1.1-0.1c0.4-0.2,0.8-0.3,1.2-0.3c0.1,0,0.1,0,0.2,0c0.6,0,1.1-0.2,1.6-0.5
+	c0.2-0.1,0.4-0.2,0.6-0.3c0.4-0.1,0.8-0.1,1.2-0.1c0,0,0.1,0,0.1,0C325,188.5,325,185.6,323.2,185.4z"/>
+<polygon class="st62" points="401.4,187.8 402.6,189.3 401,189.6 "/>
+<linearGradient id="SVGID_18_" gradientUnits="userSpaceOnUse" x1="319.8687" y1="159.0828" x2="319.8687" y2="61.3936">
+	<stop  offset="0" style="stop-color:#BEBEBE"/>
+	<stop  offset="0.2244" style="stop-color:#C1C1C1;stop-opacity:0.7756"/>
+	<stop  offset="0.4399" style="stop-color:#CACACA;stop-opacity:0.5601"/>
+	<stop  offset="0.652" style="stop-color:#D9D9D9;stop-opacity:0.348"/>
+	<stop  offset="0.8606" style="stop-color:#EDEDED;stop-opacity:0.1394"/>
+	<stop  offset="1" style="stop-color:#FDFDFD;stop-opacity:0"/>
+</linearGradient>
+<path class="st33" d="M319.9,61.4L319.9,61.4c-2,0-3.6,1.6-3.6,3.6v90.5c0,2,1.6,3.6,3.6,3.6l0,0c2,0,3.6-1.6,3.6-3.6V65
+	C323.5,63,321.9,61.4,319.9,61.4z"/>
+<line class="st77" x1="319.8" y1="159.1" x2="319.8" y2="187.2"/>
+<line class="st78" x1="319.8" y1="121.9" x2="319.8" y2="177.1"/>
+<polygon class="st43" points="328.1,99.5 323.7,103.1 316.3,103.1 311.3,99.5 311.9,84.3 327.5,84.3 "/>
+<rect x="314.9" y="89.1" class="st79" width="9.6" height="9.4"/>
+<path class="st80" d="M319.8,103.6c0,0-2.8,3.9-1.6,6.6s2.9,5.7,2.9,6.9s-1.4,4.1-1.4,4.1"/>
+<rect x="316.3" y="103.1" class="st81" width="7.3" height="2"/>
+<rect x="317.1" y="120.1" class="st81" width="5.3" height="2.2"/>
+<linearGradient id="SVGID_19_" gradientUnits="userSpaceOnUse" x1="369.7425" y1="62.4052" x2="369.7425" y2="-64.5615" gradientTransform="matrix(-0.5696 0.8219 0.8219 0.5696 481.3965 -260.4295)">
+	<stop  offset="0" style="stop-color:#000000;stop-opacity:0.95"/>
+	<stop  offset="0.6536" style="stop-color:#000000;stop-opacity:0.6512"/>
+	<stop  offset="0.9845" style="stop-color:#000000;stop-opacity:0"/>
+</linearGradient>
+<path style="fill:none;stroke:url(#SVGID_19_);stroke-width:1.1263;stroke-miterlimit:10;" d="M320.4,80.8
+	c-2.7-10.9-6.8-21.9-15.1-29.4c-6.1-5.6-14.1-8.9-22.1-11c-8-2.1-16.3-3.1-24.4-4.9c-16.8-3.7-32.8-10.7-48.6-17.7"/>
+<polygon class="st81" points="323.6,84.3 316.3,84.3 317.8,80.1 322.1,80.1 "/>
+</svg>

@@ -1,0 +1,45 @@
+<svg width="45" height="24" viewBox="0 0 45 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="R-ICO-013874">
+<g id="1-phosphatidyl-1D-myo-inositol 4-phosphate">
+<g id="Rectangle 2">
+<mask id="path-1-outside-1_938_24661" maskUnits="userSpaceOnUse" x="8.37939" y="0" width="29" height="24" fill="black">
+<rect fill="white" x="8.37939" width="29" height="24"/>
+<path d="M8.37939 2H36.6203V22H8.37939V2Z"/>
+</mask>
+<path d="M8.37939 2H36.6203V22H8.37939V2Z" fill="#457FA3"/>
+<path d="M8.37939 2V4H36.6203V2V0H8.37939V2ZM36.6203 22V20H8.37939V22V24H36.6203V22Z" fill="#836DE2" mask="url(#path-1-outside-1_938_24661)"/>
+</g>
+<g id="LEFT CORNER">
+<mask id="mask0_938_24661" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="10" height="24">
+<rect id="MASK" width="10" height="24" transform="matrix(-1 8.74228e-08 8.74228e-08 1 10 0)" fill="white"/>
+</mask>
+<g mask="url(#mask0_938_24661)">
+<g id="CORNER">
+<mask id="path-4-outside-2_938_24661" maskUnits="userSpaceOnUse" x="-1.74846e-07" y="-9.61651e-07" width="13" height="24" fill="black">
+<rect fill="white" x="-1.74846e-07" y="-9.61651e-07" width="13" height="24"/>
+<path d="M8 22L2 16L2 8L8 2L11 2L11 22L8 22Z"/>
+</mask>
+<path d="M8 22L2 16L2 8L8 2L11 2L11 22L8 22Z" fill="#457FA3"/>
+<path d="M8 22L2 16L2 8L8 2L11 2L11 22L8 22Z" stroke="#836EE2" stroke-width="4" stroke-miterlimit="3.99933" stroke-linejoin="round" mask="url(#path-4-outside-2_938_24661)"/>
+</g>
+</g>
+</g>
+<g id="RIGHT CORNER">
+<mask id="mask1_938_24661" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="35" y="0" width="10" height="24">
+<rect id="MASK_2" x="35.1558" width="9.84445" height="24" fill="white"/>
+</mask>
+<g mask="url(#mask1_938_24661)">
+<g id="CORNER_2">
+<mask id="path-6-outside-3_938_24661" maskUnits="userSpaceOnUse" x="32" y="-7.76718e-07" width="13" height="24" fill="black">
+<rect fill="white" x="32" y="-7.76718e-07" width="13" height="24"/>
+<path d="M37 22L43 16L43 8L37 2L34 2L34 22L37 22Z"/>
+</mask>
+<path d="M37 22L43 16L43 8L37 2L34 2L34 22L37 22Z" fill="#457FA3"/>
+<path d="M37 22L43 16L43 8L37 2L34 2L34 22L37 22Z" stroke="#836DE2" stroke-width="4" stroke-miterlimit="3.99933" stroke-linejoin="round" mask="url(#path-6-outside-3_938_24661)"/>
+</g>
+</g>
+</g>
+<text id="Ch" fill="white" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="9.53501" y="16.1602">PI4P</tspan></text>
+</g>
+</g>
+</svg>

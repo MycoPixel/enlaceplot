@@ -1,0 +1,45 @@
+<svg width="40" height="24" viewBox="0 0 40 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="R-ICO-013906">
+<g id="(6S)-5,6,7,8-Tetrahydrofolic acid">
+<g id="LEFT_CORNER">
+<mask id="mask0_938_24670" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="10" height="24">
+<rect id="MASK" width="10" height="24" transform="matrix(-1 0 0 1 10 0)" fill="white"/>
+</mask>
+<g mask="url(#mask0_938_24670)">
+<g id="CORNER">
+<mask id="path-2-outside-1_938_24670" maskUnits="userSpaceOnUse" x="0" y="0" width="12" height="24" fill="black">
+<rect fill="white" width="12" height="24"/>
+<path d="M2 12C2 12 6.04738 5.90524 8 2H10V22H8C6.04738 18.0948 2 12 2 12Z"/>
+</mask>
+<path d="M2 12C2 12 6.04738 5.90524 8 2H10V22H8C6.04738 18.0948 2 12 2 12Z" fill="#185454"/>
+<path d="M2 12C2 12 6.04738 5.90524 8 2H10V22H8C6.04738 18.0948 2 12 2 12Z" stroke="#1C7F7D" stroke-width="4" stroke-miterlimit="3.99933" stroke-linejoin="round" mask="url(#path-2-outside-1_938_24670)"/>
+</g>
+</g>
+</g>
+<g id="RIGHT CORNER">
+<mask id="mask1_938_24670" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="30" y="0" width="10" height="24">
+<rect id="MASK_2" width="10" height="24" transform="matrix(1 -8.74228e-08 -8.74228e-08 -1 30 24)" fill="white"/>
+</mask>
+<g mask="url(#mask1_938_24670)">
+<g id="CORNER_2">
+<mask id="path-4-outside-2_938_24670" maskUnits="userSpaceOnUse" x="28" y="0" width="12" height="24" fill="black">
+<rect fill="white" x="28" width="12" height="24"/>
+<path d="M38 12C38 12 33.9526 5.90524 32 2H30V22H32C33.9526 18.0948 38 12 38 12Z"/>
+</mask>
+<path d="M38 12C38 12 33.9526 5.90524 32 2H30V22H32C33.9526 18.0948 38 12 38 12Z" fill="#185454"/>
+<path d="M38 12C38 12 33.9526 5.90524 32 2H30V22H32C33.9526 18.0948 38 12 38 12Z" stroke="#1C7F7D" stroke-width="4" stroke-miterlimit="3.99933" stroke-linejoin="round" mask="url(#path-4-outside-2_938_24670)"/>
+</g>
+</g>
+</g>
+<g id="centre">
+<mask id="path-5-outside-3_938_24670" maskUnits="userSpaceOnUse" x="8" y="0" width="24" height="24" fill="black">
+<rect fill="white" x="8" width="24" height="24"/>
+<path d="M8 2H32V22H8V2Z"/>
+</mask>
+<path d="M8 2H32V22H8V2Z" fill="#185454"/>
+<path d="M8 2V4H32V2V0H8V2ZM32 22V20H8V22V24H32V22Z" fill="#1C7F7D" mask="url(#path-5-outside-3_938_24670)"/>
+<text id="Chemical" fill="white" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="8.32812" y="16.1602">THF</tspan></text>
+</g>
+</g>
+</g>
+</svg>

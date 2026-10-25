@@ -67,6 +67,13 @@ export const ES: Record<string, string> = {
   'Public health': 'Salud pública',
   'Health facilities': 'Establecimientos de salud',
   'Medical specialties': 'Especialidades médicas',
+  Diagrams: 'Diagramas',
+  Organisms: 'Organismos',
+  'Cell Types': 'Tipos de célula',
+  Receptors: 'Receptores',
+  Therapeutics: 'Terapéuticos',
+  Arrows: 'Flechas',
+  Backgrounds: 'Fondos',
 
   // top bar
   File: 'Archivo',
@@ -193,6 +200,10 @@ export const ES: Record<string, string> = {
   'Drawings from Wikimedia Commons: {list}.': 'Dibujos de Wikimedia Commons: {list}.',
   'Silhouettes from PhyloPic: {list}.': 'Siluetas de PhyloPic: {list}.',
   'Icons from Health Icons (healthicons.org): {list}.': 'Íconos de Health Icons (healthicons.org): {list}.',
+  'Drawings from SciDraw (scidraw.io): {list}.': 'Dibujos de SciDraw (scidraw.io): {list}.',
+  'Icons from the Reactome Icon Library: {list}.': 'Íconos de la biblioteca de íconos de Reactome: {list}.',
+  'Illustrations from TogoTV, © 2016 DBCLS TogoTV, CC BY 4.0: {list}.':
+    'Ilustraciones de TogoTV, © 2016 DBCLS TogoTV, CC BY 4.0: {list}.',
   '{label} by {author} ({license}, {via}), {url}': '{label}, de {author} ({license}, {via}): {url}',
   '{label} by {author} ({license}, {via}, recoloured), {url}':
     '{label}, de {author} ({license}, {via}, recoloreado): {url}',
@@ -474,6 +485,9 @@ export const ES: Record<string, string> = {
   'Wikimedia Commons': 'Wikimedia Commons',
   PhyloPic: 'PhyloPic',
   'Health Icons': 'Health Icons',
+  SciDraw: 'SciDraw',
+  Reactome: 'Reactome',
+  TogoTV: 'TogoTV',
 
   // connected arrows
   'Connections': 'Conexiones',
